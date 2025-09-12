@@ -12,8 +12,6 @@ I'm a passionate Backend Developer from India, specializing in building robust a
 - 🔭 &nbsp; I’m currently working on a personal project involving real-time data processing with FastAPI.
 - 🌱 &nbsp; I’m currently learning more about microservices architecture and Kubernetes.
 - 💬 &nbsp; Ask me about Python, FastAPI, backend architecture, or anything related to my tech stack!
-- 📫 &nbsp; How to reach me: [your.email@example.com](mailto:your.email@example.com)
-
 ---
 
 ### 🛠️ My Tech Stack
