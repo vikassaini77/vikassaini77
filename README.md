@@ -1,63 +1,105 @@
-# Hi, I'm Vikas 👋
+<p align="center">
+  <a href="https://github.com/vikassaini77">
+    <img src="https://i.imgur.com/M2LzW3I.gif" alt="Vikas Saini - Backend Developer" width="100%"/>
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/your-twitter-handle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+<p align="center">
+  <h1 align="center">Vikas Saini</h1>
+  <h3 align="center">Passionate Backend Developer | Python | FastAPI | Docker | ML Enthusiast</h3>
+</p>
 
----
-
-### 👨‍💻 About Me
-
-I'm a passionate Backend Developer from India, specializing in building robust and scalable APIs. My primary tools are **Python**, **FastAPI**, and **Docker**. I love turning complex problems into simple, elegant solutions and I'm currently exploring the fascinating world of Machine Learning to integrate intelligent features into applications.
-
-- 🔭 &nbsp; I’m currently working on a personal project involving real-time data processing with FastAPI.
-- 🌱 &nbsp; I’m currently learning more about microservices architecture and Kubernetes.
-- 💬 &nbsp; Ask me about Python, FastAPI, backend architecture, or anything related to my tech stack!
-- 📫 &nbsp; How to reach me: [your.email@example.com](mailto:your.email@example.com)
-
----
-
-### 🛠️ My Tech Stack
-
-| Category      | Technologies                                                                                                                                                                                                                                                                                          |
-|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)                                                                                   |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
-| **ML/AI** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)                                                               |
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/your-twitter-handle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-### ✨ Pinned Projects
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="50" height="50" />
+</p>
 
-| Project Name | Description | Tech Stack | Links |
-|--------------|-------------|------------|-------|
-| **Project A** | A brief but compelling description of what this project does and why it's cool. | FastAPI, PostgreSQL, Docker | [🔗 Repo](https://github.com/vikassaini77/your-repo) <br> [🚀 Live](your-live-link.com) |
-| **Project B** | A brief but compelling description of what this project does and why it's cool. | Python, TensorFlow, Flask | [🔗 Repo](https://github.com/vikassaini77/your-repo) |
+> I specialize in building robust and scalable APIs using Python and FastAPI. I love turning complex problems into simple, elegant code. Currently, I'm diving deeper into microservices and exploring how to integrate Machine Learning features into modern applications.
 
 ---
 
-### 📊 My GitHub Stats & Activity
+## 🛠️ My Tech Arsenal
 
-<details>
-  <summary><b>📈 GitHub Stats</b></summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vikassaini77&show_icons=true&theme=radical&rank_icon=github" alt="Vikas's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassaini77&layout=compact&theme=radical" alt="Vikas's Top Languages" />
-  </p>
-</details>
+<p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="40" height="40"/></a>
+</p>
 
-<details>
-  <summary><b>💻 WakaTime Coding Activity</b></summary>
-  </details>
+---
+
+## ✨ Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Project Name A</h3>
+      <br />
+      <a href="https://github.com/vikassaini77/your-repo-a">
+        <img src="https://via.placeholder.com/400x250/000000/FFFFFF?text=Project+A+GIF" alt="Project A" />
+      </a>
+      <br />
+      <p align="center">
+        A short but effective description of what this project does and the problems it solves. Keep it concise and impactful.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Project Name B</h3>
+      <br />
+      <a href="https://github.com/vikassaini77/your-repo-b">
+        <img src="https://via.placeholder.com/400x250/000000/FFFFFF?text=Project+B+GIF" alt="Project B" />
+      </a>
+      <br />
+      <p align="center">
+        This is a description for your second amazing project. Highlight the key features and what you learned while building it.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vikassaini77&show_icons=true&theme=tokyonight&rank_icon=github" alt="Vikas's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassaini77&layout=compact&theme=tokyonight" alt="Vikas's Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vikassaini77&theme=onedark&margin-w=15&margin-h=15" alt="Vikas's GitHub Trophies" />
 </p>
 
 ---
-
-### 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://github.com/vikassaini77/vikassaini77/blob/output/github-contribution-grid-snake.svg" alt="Snake contribution graph">
