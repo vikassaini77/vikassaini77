@@ -10,12 +10,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - name: Update Time in README
+        env:
+          TZ: Asia/Kolkata # <-- This sets the timezone to India Standard Time
         run: |
-          sed -i "s|<!--TIME-->.*<!--END TIME-->|<!--TIME-->$(date '+%d-%m-%Y %H:%M:%S')<!--END TIME-->|g" README.md
-      - name: Commit changes
+          sed -i "s|.*|$(date '+%A, %d %B %Y %I:%M:%S %p %Z')|g" README.md
+
+      - name: Commit and push changes
         run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'actions@github.com'
-          git commit -am "Update README with new time"
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git commit -am "BOT: Auto-update last modified time"
           git push
