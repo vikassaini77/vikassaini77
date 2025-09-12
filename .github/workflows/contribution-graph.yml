@@ -2,7 +2,7 @@ name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,14 +10,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.0
+
+      - name: Generate 3D graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         with:
-          username: vikassaini77
-          token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Push 3D Graph
-        run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'actions@github.com'
-          git add -A .
-          git commit -m "Update 3D contribution graph"
-          git push
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: profile-3d-contrib
+          commit_message: "Generate 3D contribution graph"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
