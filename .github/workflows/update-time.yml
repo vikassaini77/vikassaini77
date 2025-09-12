@@ -12,10 +12,15 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Update README date
-        env:
-          TZ: Asia/Kolkata
         run: |
-          sed -i '//c\**Last updated:** '"$(date '+%A, %d %B %Y %I:%M:%S %p %Z')"'' README.md
+          # Get the current time in IST
+          current_time=$(TZ=Asia/Kolkata date '+%A, %d %B %Y %I:%M:%S %p %Z')
+
+          # Create the replacement text
+          replacement_text="**Last updated:** $current_time"
+
+          # Use sed to find the placeholder line and replace it
+          sed -i "//c\\$replacement_text" README.md
 
       - name: Commit and push changes
         run: |
