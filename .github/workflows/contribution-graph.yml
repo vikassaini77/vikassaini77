@@ -15,7 +15,7 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USER_NAME: ${{ github.repository_owner }}
+          USERNAME: ${{ github.repository_owner }} # <-- THIS LINE IS FIXED
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
