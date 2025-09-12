@@ -9,22 +9,27 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
+      # Step 1: Check out the repository so the action can edit files
       - uses: actions/checkout@v3
 
-      - name: Update README date
-        run: |
-          # Get the current time in IST
-          current_time=$(TZ=Asia/Kolkata date '+%A, %d %B %Y %I:%M:%S %p %Z')
+      # Step 2: A trusted action to get the current time for your timezone
+      - name: Get current time
+        uses: 1466587594/get-current-time@v2
+        id: current-time
+        with:
+          format: dddd, MMMM D, YYYY, h:mm:ss A Z
+          utcOffset: "+05:30" # This is the timezone for IST
 
-          # Create the replacement text
-          replacement_text="**Last updated:** $current_time"
+      # Step 3: A trusted action to find and replace the placeholder
+      - name: Find and Replace
+        uses: jacobtomlinson/gha-find-replace@v3
+        with:
+          find: ""
+          replace: "${{ steps.current-time.outputs.formattedTime }}"
+          include: "README.md"
 
-          # Use sed to find the placeholder line and replace it
-          sed -i "//c\\$replacement_text" README.md
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git commit -am "BOT: Auto-update last modified time"
-          git push
+      # Step 4: A trusted action to automatically commit the changes
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "BOT: Auto-update last modified time"
