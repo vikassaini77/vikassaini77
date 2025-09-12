@@ -10,16 +10,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: gautamkrishnar/best-readme-updater@v1
-        with:
-          # This is the placeholder we added to the README
-          placeholder: ""
 
-          # This is your timezone
-          timezone: "Asia/Kolkata"
+      - name: Update README date
+        env:
+          TZ: Asia/Kolkata
+        run: |
+          sed -i '//c\**Last updated:** '"$(date '+%A, %d %B %Y %I:%M:%S %p %Z')"'' README.md
 
-          # This is the format for the time
-          format: "dddd, mmmm d, yyyy, h:MM:ss TT Z"
-
-          # This is the commit message
-          commit_message: "BOT: Auto-update last modified time"
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git commit -am "BOT: Auto-update last modified time"
+          git push
