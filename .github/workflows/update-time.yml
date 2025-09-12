@@ -9,26 +9,25 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      # Step 1: Check out the repository so the action can edit files
+      # Step 1: Check out the repository
       - uses: actions/checkout@v3
 
-      # Step 2: A trusted action to get the current time for your timezone
+      # Step 2: Get the current time
       - name: Get current time
         uses: 1466587594/get-current-time@v2
         id: current-time
         with:
           format: dddd, MMMM D, YYYY, h:mm:ss A Z
-          utcOffset: "+05:30" # This is the timezone for IST
+          utcOffset: "+05:30"
 
-      # Step 3: A trusted action to find and replace the placeholder
+      # Step 3: Use a different, more reliable Find and Replace action
       - name: Find and Replace
-        uses: jacobtomlinson/gha-find-replace@v3
+        uses: rickstaa/action-find-and-replace@v1
         with:
           find: ""
           replace: "${{ steps.current-time.outputs.formattedTime }}"
-          include: "README.md"
 
-      # Step 4: A trusted action to automatically commit the changes
+      # Step 4: Commit the changes
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
