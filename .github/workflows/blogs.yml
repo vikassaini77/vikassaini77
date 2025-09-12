@@ -11,5 +11,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://medium.com/feed/@vikassaini77"
+         with:
+    feed_list: "https://medium.com/feed/@your-medium-username"
+ 
