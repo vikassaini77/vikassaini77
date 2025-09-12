@@ -129,11 +129,23 @@
 
 ---
 
-## 😂 Dev Jokes  
+## 🎬 Featured Video  
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+  <a href="https://youtu.be/your-demo-video" target="_blank">
+    <img src="https://img.youtube.com/vi/your-video-id/0.jpg" width="500" alt="Watch Demo"/>
+  </a>
 </p>
+
+---
+
+## 📰 Latest Blogs  
+
+<!-- BLOG-POST-LIST:START -->
+- [Title of Blog 1](https://yourblog.com/post1)
+- [Title of Blog 2](https://yourblog.com/post2)
+- [Title of Blog 3](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -142,5 +154,25 @@
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&show_offline=false&background_color=121212" alt="Spotify Now Playing"/>
 </p>
+
+---
+
+## 😂 Dev Jokes  
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</p>
+
+---
+
+## 🌍 Visitor Map  
+
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=vikassaini77&label=Visitors&countColor=%23263759&style=flat" />
+</p>
+
+---
+
+⏰ **Last updated:** <!--TIME-->12-09-2025 18:45:00<!--END TIME-->
 
 ---
