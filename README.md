@@ -32,10 +32,7 @@
 
 ## 💡 About Me  
 
-🔹 I specialize in building **scalable APIs** using **Python & FastAPI**  
-🔹 Exploring **microservices** & **Machine Learning integration**  
-🔹 Love turning **complex problems into elegant solutions**  
-🔹 Open Source Contributor & Lifelong Learner  
+🔹 I specialize in building **scalable APIs** using **Python & FastAPI** 🔹 Exploring **microservices** & **Machine Learning integration** 🔹 Love turning **complex problems into elegant solutions** 🔹 Open Source Contributor & Lifelong Learner  
 
 ---
 
@@ -45,6 +42,9 @@
   <img src="https://skillicons.dev/icons?i=python,fastapi,flask,js,ts,nodejs,html,postgres,mongodb,redis,docker,git,kubernetes,tensorflow,sklearn" />
 </p>
 
+---
+
+### 📰 Recent Blog Posts
 ---
 
 ## ✨ Featured Projects  
@@ -94,6 +94,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vikassaini77&show_icons=true&theme=tokyonight&rank_icon=github" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassaini77&layout=compact&theme=tokyonight" height="160"/>
 </p>
+
+<details> 
+  <summary><b>💻 My Coding Activity (WakaTime)</b></summary>
+  <br/>
+  </details>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vikassaini77&theme=tokyonight&margin-w=15&margin-h=15" />
@@ -169,4 +174,4 @@
 
 ---
 
-⏰ Last updated: <!--TIME-->12-09-2025 18:45:00<!--END TIME-->
+⏰ Last updated: Fri Sep 12 19:45:00 2025```
