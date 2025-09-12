@@ -12,11 +12,11 @@ I'm a passionate Backend Developer from India, specializing in building robust a
 - 🔭 &nbsp; I’m currently working on a personal project involving real-time data processing with FastAPI.
 - 🌱 &nbsp; I’m currently learning more about microservices architecture and Kubernetes.
 - 💬 &nbsp; Ask me about Python, FastAPI, backend architecture, or anything related to my tech stack!
+- 📫 &nbsp; How to reach me: [your.email@example.com](mailto:your.email@example.com)
+
 ---
 
 ### 🛠️ My Tech Stack
-
-Here are some of the technologies I work with:
 
 | Category      | Technologies                                                                                                                                                                                                                                                                                          |
 |---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -37,16 +37,19 @@ Here are some of the technologies I work with:
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 My GitHub Stats & Activity
 
 <details>
-  <summary>Click to expand</summary>
-  
+  <summary><b>📈 GitHub Stats</b></summary>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=vikassaini77&show_icons=true&theme=radical&rank_icon=github" alt="Vikas's GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassaini77&layout=compact&theme=radical" alt="Vikas's Top Languages" />
   </p>
 </details>
+
+<details>
+  <summary><b>💻 WakaTime Coding Activity</b></summary>
+  </details>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vikassaini77&theme=onedark&margin-w=15&margin-h=15" alt="Vikas's GitHub Trophies" />
