@@ -174,5 +174,15 @@
 ---
 
 ⏰ **Last updated:** <!--TIME-->12-09-2025 18:45:00<!--END TIME-->
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+⏰ Last updated: <!--TIME-->loading...<!--END TIME-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vikassaini77/vikassaini77/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
+</p>
+<p align="center">
+  <img src="https://github.com/vikassaini77/vikassaini77/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
 ---
