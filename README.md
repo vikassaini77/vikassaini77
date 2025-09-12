@@ -113,7 +113,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vikassaini77/vikassaini77/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/vikassaini77/vikassaini77/output/github-contribution-grid-snake.svg" alt="Snake contribution graph">
 </p>
 
 ---
