@@ -109,7 +109,7 @@
 ## 🐍 Contribution Snake & 3D Graph  
 
 <p align="center">
-  <img src="https://github.com/vikassaini77/vikassaini77/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/vikassaini77/vikassaini77/blob/output/github-contribution-grid-snake.svg" alt="Snake contribution graph">
 </p>
 
 <p align="center">
