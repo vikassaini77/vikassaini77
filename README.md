@@ -13,13 +13,13 @@
 <h3 align="center">🚀 Passionate Backend Developer | Python | FastAPI | Docker | ML Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:YOUR_EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -54,7 +54,7 @@
     <td width="50%">
       <h3 align="center">🚀 File Parser API</h3>
       <p align="center">
-        <a href="https://github.com/vikassaini77/your-repo-a" target="_blank">
+        <a href="https://github.com/vikassaini77/YOUR_REPO_A" target="_blank">
           <img src="https://via.placeholder.com/400x250/000000/FFFFFF?text=FastAPI+Project" alt="Project A"/>
         </a>
       </p>
@@ -70,7 +70,7 @@
     <td width="50%">
       <h3 align="center">🤖 Soil Erosion Detection</h3>
       <p align="center">
-        <a href="https://github.com/vikassaini77/your-repo-b" target="_blank">
+        <a href="https://github.com/vikassaini77/YOUR_REPO_B" target="_blank">
           <img src="https://via.placeholder.com/400x250/000000/FFFFFF?text=ML+Project" alt="Project B"/>
         </a>
       </p>
@@ -124,7 +124,7 @@
 ## 🎯 Competitive Programming  
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
 </p>
 
 ---
@@ -132,27 +132,17 @@
 ## 🎬 Featured Video  
 
 <p align="center">
-  <a href="https://youtu.be/your-demo-video" target="_blank">
-    <img src="https://img.youtube.com/vi/your-video-id/0.jpg" width="500" alt="Watch Demo"/>
+  <a href="https://youtu.be/YOUR_VIDEO" target="_blank">
+    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" width="500" alt="Watch Demo"/>
   </a>
 </p>
-
----
-
-## 📰 Latest Blogs  
-
-<!-- BLOG-POST-LIST:START -->
-- [Title of Blog 1](https://yourblog.com/post1)
-- [Title of Blog 2](https://yourblog.com/post2)
-- [Title of Blog 3](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
 ## 🎶 Spotify Now Playing  
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&show_offline=false&background_color=121212" alt="Spotify Now Playing"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212" alt="Spotify Now Playing"/>
 </p>
 
 ---
@@ -173,16 +163,10 @@
 
 ---
 
-⏰ **Last updated:** <!--TIME-->12-09-2025 18:45:00<!--END TIME-->
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-⏰ Last updated: <!--TIME-->loading...<!--END TIME-->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vikassaini77/vikassaini77/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
-</p>
-<p align="center">
-  <img src="https://github.com/vikassaini77/vikassaini77/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </p>
 
 ---
+
+⏰ Last updated: <!--TIME-->12-09-2025 18:45:00<!--END TIME-->
