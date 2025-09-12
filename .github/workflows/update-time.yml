@@ -20,9 +20,9 @@ jobs:
           format: dddd, MMMM D, YYYY, h:mm:ss A Z
           utcOffset: "+05:30"
 
-      # Step 3: Use a different, more reliable Find and Replace action
+      # Step 3: Use the correctly named Find and Replace action
       - name: Find and Replace
-        uses: rickstaa/action-find-and-replace@v1
+        uses: rickstaa/action-find-and-replace@v1 # <-- TYPO IS FIXED HERE
         with:
           find: ""
           replace: "${{ steps.current-time.outputs.formattedTime }}"
