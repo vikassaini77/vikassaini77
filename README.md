@@ -1,177 +1,144 @@
 <p align="center">
-  <a href="https://github.com/vikassaini77">
-    <img src="https://i.imgur.com/M2LzW3I.gif" alt="Vikas Saini - Backend Developer" width="100%"/>
-  </a>
+<a href="https://github.com/vikassaini77">
+<img src="https://i.imgur.com/M2LzW3I.gif" alt="Vikas Saini - Machine Learning Engineer" width="100%"/>
+</a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Vikas Saini</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F7F7&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%7C+FastAPI+%7C+Docker;Machine+Learning+Enthusiast;Always+Learning+New+Things" alt="Typing SVG">
-</p>
-
-<h3 align="center">🚀 Passionate Backend Developer | Python | FastAPI | Docker | ML Enthusiast</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Fsize%3D24%26duration%3D4000%26color%3D00F7F7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DMachine%2BLearning%2BEngineer%3BBackend%2BDeveloper%3BPython%2B%257C%2BFastAPI%2B%257C%2BPyTorch%3BOpen%2BSource%2BContributor" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikassaini77&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<a href="https://www.linkedin.com/in/vikas-saini1/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:vikassn44@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 </p>
 
----
+👨‍💻 About Me
+I am a Machine Learning Engineer specializing in building robust backend systems and intelligent applications. With a strong foundation in Python, C++, and Data Structures, I enjoy designing and optimizing solutions for complex problems in Computer Vision and NLP. I have hands-on experience in developing scalable APIs with FastAPI, creating ML models with PyTorch and Scikit-learn, and deploying applications using Docker and AWS.
 
-## 💡 About Me  
+🔭 I’m passionate about automating data analysis and building dynamic conversational AI.
 
-🔹 I specialize in building **scalable APIs** using **Python & FastAPI** 🔹 Exploring **microservices** & **Machine Learning integration** 🔹 Love turning **complex problems into elegant solutions** 🔹 Open Source Contributor & Lifelong Learner  
+🌱 I’m currently exploring advanced concepts in microservices and MLOps.
 
----
+💬 Ask me about backend architecture, deep learning, or my projects!
 
-## 🛠️ Tech Stack  
-
+🛠️ My Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,js,ts,nodejs,html,postgres,mongodb,redis,docker,git,kubernetes,tensorflow,sklearn" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,cpp,swift,fastapi,flask,pytorch,sklearn,tensorflow,opencv,numpy,pandas,keras,aws,gcp,docker,redis,postgres,git" />
 </p>
 
----
-
-### 📰 Recent Blog Posts
----
-
-## ✨ Featured Projects  
-
+✨ Featured Projects
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🚀 File Parser API</h3>
-      <p align="center">
-        <a href="https://github.com/vikassaini77/YOUR_REPO_A" target="_blank">
-          <img src="https://via.placeholder.com/400x250/000000/FFFFFF?text=FastAPI+Project" alt="Project A"/>
-        </a>
-      </p>
-      <p align="center">
-        Backend system with FastAPI, Celery, Redis, and Docker for large file parsing & async tasks.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🤖 Soil Erosion Detection</h3>
-      <p align="center">
-        <a href="https://github.com/vikassaini77/YOUR_REPO_B" target="_blank">
-          <img src="https://via.placeholder.com/400x250/000000/FFFFFF?text=ML+Project" alt="Project B"/>
-        </a>
-      </p>
-      <p align="center">
-        Deep learning project using U-Net with EfficientNet backbone for detecting soil erosion from satellite images.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">Asynchronous File Parser API</h3>
+<br />
+<a href="https://github.com/vikassaini77/YOUR_REPO_A" target="_blank">
+<img src="https://www.google.com/search?q=https://via.placeholder.com/400x250/1f2228/FFFFFF%3Ftext%3DFile%2BParser%2BAPI" alt="File Parser API Project" />
+</a>
+<br />
+<p align="center">
+Engineered a scalable backend system to manage large file uploads, parsing, and retrieval asynchronously. This project reduced processing latency and improved overall system responsiveness under heavy workloads.
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Celery-37814A%3Fstyle%3Dfor-the-badge%26logo%3Dcelery%26logoColor%3Dwhite" alt="Celery"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">Intelli Bot - AI Chat Assistant</h3>
+<br />
+<a href="https://github.com/vikassaini77/YOUR_REPO_B" target="_blank">
+<img src="https://www.google.com/search?q=https://via.placeholder.com/400x250/1f2228/FFFFFF%3Ftext%3DIntelli%2BBot%2BProject" alt="Intelli Bot Project" />
+</a>
+<br />
+<p align="center">
+Architected a hybrid AI chatbot with offline intent classification (92% accuracy) and online LLM integration for dynamic conversations. Features document-based Q&A using PyPDF2 and embeddings.
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Scikit--learn-F7931E%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite" alt="scikit-learn"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS"/>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">iOS Fitness App</h3>
+<br />
+<a href="https://www.google.com/search?q=https://github.com/vikassaini77/YOUR_REPO_C" target="_blank">
+<img src="https://www.google.com/search?q=https://via.placeholder.com/400x250/1f2228/FFFFFF%3Ftext%3DiOS%2BFitness%2BApp" alt="iOS Fitness App Project" />
+</a>
+<br />
+<p align="center">
+Created a mobile fitness tracker for iOS enabling workout logging, progress visualization, and goal setting. Integrated Apple's HealthKit for seamless activity data capture and automated PDF report generation.
+</p>
+<p align="center">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Swift-FA7343%3Fstyle%3Dfor-the-badge%26logo%3Dswift%26logoColor%3Dwhite" alt="Swift"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Xcode-147EFB%3Fstyle%3Dfor-the-badge%26logo%3Dxcode%26logoColor%3Dwhite" alt="Xcode"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Core_Data-5A5A5A%3Fstyle%3Dfor-the-badge" alt="Core Data"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">Valo Bot - AI Chatbot</h3>
+<br />
+<a href="https://www.google.com/search?q=https://github.com/vikassaini77/YOUR_REPO_D" target="_blank">
+<img src="https://www.google.com/search?q=https://via.placeholder.com/400x250/1f2228/FFFFFF%3Ftext%3DValo%2BBot%2BProject" alt="Valo Bot Project" />
+</a>
+<br />
+<p align="center">
+Developed an AI-powered assistant during the AWS & VCT Hackathon for esports player analysis. Provided 100+ managers with insights on performance and recruitment using NLP-driven dashboards.
+</p>
+<p align="center">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Amazon_Bedrock-4A64A9%3Fstyle%3Dfor-the-badge" alt="Amazon Bedrock"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/API-FD6E0D%3Fstyle%3Dfor-the-badge" alt="API"/>
+</p>
+</td>
+</tr>
 </table>
 
----
+🏆 Certificates & Achievements
+Accenture North America Data Analytics: Completed virtual experience program on Forage.
 
-## 📊 GitHub Stats  
+Rannit-E Case Study Competition: Recognized by NIT Durgapur.
 
+Top 10 Finalist: GLA University Chess Competition (out of 300 participants).
+
+AWS & VCT AI Chatbot Challenge: Active participant.
+
+C++ Programming Internship: Completed 6-week program at Techvanto Academy.
+
+📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikassaini77&show_icons=true&theme=tokyonight&rank_icon=github" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassaini77&layout=compact&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vikassaini77&show_icons=true&theme=tokyonight&rank_icon=github" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassaini77&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
-<details> 
-  <summary><b>💻 My Coding Activity (WakaTime)</b></summary>
-  <br/>
-  </details>
+<details>
+<summary><b>💻 My Coding Activity (WakaTime)</b></summary>
+<br/>
+<!--START_SECTION:waka-->
+<!--Your WakaTime stats will appear here-->
+<!--END_SECTION:waka-->
+</details>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikassaini77&theme=tokyonight&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=vikassaini77&theme=tokyonight&margin-w=15&margin-h=15" />
 </p>
 
----
-
-## 🐍 Contribution Snake & 3D Graph  
-
+🐍 Contribution Graph
 <p align="center">
-  <img src="https://github.com/vikassaini77/vikassaini77/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/vikassaini77/vikassaini77/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vikassaini77/vikassaini77/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
-</p>
-
----
-
-## 📈 Activity Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikassaini77&theme=tokyo-night" alt="GitHub Activity Graph"/>
-</p>
-
----
-
-## 🎯 Competitive Programming  
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
-</p>
-
----
-
-## 🎬 Featured Video  
-
-<p align="center">
-  <a href="https://youtu.be/YOUR_VIDEO" target="_blank">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" width="500" alt="Watch Demo"/>
-  </a>
-</p>
-
----
-
-## 🎶 Spotify Now Playing  
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212" alt="Spotify Now Playing"/>
-</p>
-
----
-
-## 😂 Dev Jokes  
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-</p>
-
----
-
-## 🌍 Visitor Map  
-
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=vikassaini77&label=Visitors&countColor=%23263759&style=flat" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</p>
-
----
-
-⏰ Last updated: Fri Sep 12 19:45:00 2025```
+Last updated: <!--LAST_UPDATED-->
