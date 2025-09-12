@@ -9,18 +9,21 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      # This is a newer version of the checkout action
+      - uses: actions/checkout@v3
 
+      # This is the updated snake animation generator
       - name: Generate Snake animation
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # This is the updated action to push to the output branch
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v2.5.0
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
