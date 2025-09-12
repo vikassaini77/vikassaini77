@@ -13,8 +13,9 @@ jobs:
 
       - name: Generate 3D graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        with:
-          github_user_name: ${{ github.repository_owner }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER_NAME: ${{ github.repository_owner }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
