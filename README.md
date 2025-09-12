@@ -1,10 +1,16 @@
 <p align="center">
 <a href="https://github.com/vikassaini77">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://sl.bing.net/c69ZvgrFVvw" alt="Vikas Saini - Machine Learning Engineer" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Vikas Saini - Machine Learning Engineer" width="100%"/>
 </a>
 </p>
 
+<!-- 🌟 Add your banner here -->
+<p align="center">
+  <img src="https://sl.bing.net/c69ZvgrFVvw" alt="Banner" width="100%"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Vikas Saini</h1>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F7F7&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Backend+Developer;Python+%7C+FastAPI+%7C+PyTorch;Open+Source+Contributor" alt="Typing SVG">
