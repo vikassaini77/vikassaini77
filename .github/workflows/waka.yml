@@ -10,8 +10,9 @@ jobs:
   update-readme:
     name: Update README with WakaTime stats
     runs-on: ubuntu-latest
-    # Add this permissions block
+    # Corrected permissions block
     permissions:
+      actions: read
       contents: write
     steps:
       - uses: anmol098/waka-readme-stats@master
