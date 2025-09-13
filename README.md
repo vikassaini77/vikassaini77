@@ -160,6 +160,9 @@ With a solid base in **Python, C++ & Data Structures**, I enjoy solving challeng
 ## 🐍 Contribution Graph  
 <p align="center">
 <img src="https://raw.githubusercontent.com/vikassaini77/vikassaini77/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <!-- simple activity graph (quick & reliable) -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vikassaini77&theme=react-dark&area=true&hide_border=true)
+
 </p>
 
 ---
