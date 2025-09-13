@@ -164,5 +164,11 @@ With a solid base in **Python, C++ & Data Structures**, I enjoy solving challeng
 </p>
 
 ---
+---
 
+## 🐍 Contribution Graph  
+<p align="center">
+<img src="https://raw.githubusercontent.com/vikassaini77/vikassaini77/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+  
 <p align="center">🌟 _Last updated: <!--LAST_UPDATED-->_ 🌟</p>
