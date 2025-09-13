@@ -136,39 +136,24 @@ With a solid base in **Python, C++ & Data Structures**, I enjoy solving challeng
 
 ---
 
-## 📊 GitHub Stats & Activity  
+---
+
+## 📊 GitHub Stats & Activity  
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=vikassaini77&show_icons=true&theme=tokyonight&rank_icon=github" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassaini77&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vikassaini77/vikassaini77/output/snake.svg" alt="snake animation"/>
+</p>
+
 <details>
 <summary><b>⌨️ My Coding Activity (WakaTime)</b></summary>
 <br/>
-<!--START_SECTION:waka-->
-<!--WakaTime stats auto update here-->
-<!--END_SECTION:waka-->
 </details>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/vikassaini77/vikassaini77/output/snake.svg" alt="snake animation"/>
-</p>
-
 ---
-
-## 🐍 Contribution Graph  
-<p align="center">
-<img src="https://raw.githubusercontent.com/vikassaini77/vikassaini77/output/github-contribution-grid-snake.svg?v=1" alt="snake animation"/>
-  <!-- simple activity graph (quick & reliable) -->
-</p>
-
----
----
-
-## 🐍 Contribution Graph  
-<p align="center">
-<img src="https://raw.githubusercontent.com/vikassaini77/vikassaini77/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-  
-<p align="center">🌟 _Last updated: <!--LAST_UPDATED-->_ 🌟</p>
+  
+<p align="center">🌟 _Last updated: _ 🌟</p>
