@@ -6,14 +6,13 @@
 
 <!-- 🌟 Add your banner here -->
 <p align="center">
-  <img src="[https://sl.bing.net/c69ZvgrFVvw](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdUlqYLXa7Vgxq002pREevDtqMVRr9DF29zdYqMI8aLg3JB3tGD1M6WvCL9aiZnTE_dCChZ-h4rnKZtE0kyjAomfx2YHGifcHRw4KXyvJ_nxQ8PdxC_q1kgsOLY549oD4Z1DZsJDHGOA/s1600/Machine-Learning.gif)" alt="Banner" width="100%"/>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdUlqYLXa7Vgxq002pREevDtqMVRr9DF29zdYqMI8aLg3JB3tGD1M6WvCL9aiZnTE_dCChZ-h4rnKZtE0kyjAomfx2YHGifcHRw4KXyvJ_nxQ8PdxC_q1kgsOLY549oD4Z1DZsJDHGOA/s1600/Machine-Learning.gif" alt="Banner" width="100%"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Vikas Saini</h1>
-
+<h1 align="center">✨ Hi there 👋, I'm Vikas Saini ✨</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F7F7&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Backend+Developer;Python+%7C+FastAPI+%7C+PyTorch;Open+Source+Contributor" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F7F7&center=true&vCenter=true&width=600&lines=🚀+Machine+Learning+Engineer;💻+Backend+Developer;⚡+Python+%7C+FastAPI+%7C+PyTorch;🌍+Open+Source+Contributor" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -27,19 +26,22 @@
 
 ---
 
-### 👨‍💻 About Me  
-I am a Machine Learning Engineer specializing in building robust backend systems and intelligent applications. With a strong foundation in Python, C++, and Data Structures, I enjoy designing and optimizing solutions for complex problems in Computer Vision and NLP.  
+## 👨‍💻 About Me  
+I am a **Machine Learning Engineer** who loves building **intelligent apps** and **scalable backends** 🛠️.  
+With a solid base in **Python, C++ & Data Structures**, I enjoy solving challenges in **Computer Vision 🤖** and **NLP 🗣️**.  
 
-- 🔭 Passionate about automating data analysis and building dynamic conversational AI  
-- 🌱 Exploring advanced concepts in microservices and MLOps  
-- 💬 Ask me about backend architecture, deep learning, or my projects!  
+- 🔭 Passionate about **automation + AI-powered solutions**  
+- 🌱 Exploring **MLOps, Microservices & Cloud** ☁️  
+- 💬 Ask me about **Deep Learning, Backend Architecture, AI Projects**  
+- ⚡ Fun fact: I can debug faster when there’s coffee ☕  
 
 ---
 
-### 🛠️ My Tech Stack
+## 🛠️ Tech Stack  
+
 <table>
 <tr>
-<td align="center">Languages</td>
+<td align="center">🚀 Languages</td>
 <td>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -47,14 +49,14 @@ I am a Machine Learning Engineer specializing in building robust backend systems
 </td>
 </tr>
 <tr>
-<td align="center">Backend & Frameworks</td>
+<td align="center">⚡ Backend & Frameworks</td>
 <td>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </td>
 </tr>
 <tr>
-<td align="center">ML/DL</td>
+<td align="center">🤖 ML / DL</td>
 <td>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -64,7 +66,7 @@ I am a Machine Learning Engineer specializing in building robust backend systems
 </td>
 </tr>
 <tr>
-<td align="center">Databases & Tools</td>
+<td align="center">🗄️ Databases & Tools</td>
 <td>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
@@ -72,7 +74,7 @@ I am a Machine Learning Engineer specializing in building robust backend systems
 </td>
 </tr>
 <tr>
-<td align="center">Cloud & DevOps</td>
+<td align="center">☁️ Cloud & DevOps</td>
 <td>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
@@ -83,80 +85,69 @@ I am a Machine Learning Engineer specializing in building robust backend systems
 
 ---
 
-### ✨ Featured Projects
+## ✨ Featured Projects  
+
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">Asynchronous File Parser API</h3>
-<br />
+<h3 align="center">📂 Asynchronous File Parser API</h3>
 <a href="https://github.com/vikassaini77/file-parser-api" target="_blank">
 <img src="https://via.placeholder.com/400x250/1f2228/FFFFFF?text=File+Parser+API" alt="File Parser API Project" />
 </a>
-<br />
-<p align="center">
-Engineered a scalable backend system to manage large file uploads, parsing, and retrieval asynchronously.
-</p>
+<p align="center">⚡ Scalable backend system for async file uploads & parsing.</p>
 </td>
+
 <td width="50%" valign="top">
-<h3 align="center">Intelli Bot - AI Chat Assistant</h3>
-<br />
+<h3 align="center">🤖 Intelli Bot - AI Chat Assistant</h3>
 <a href="https://github.com/vikassaini77/intellibot" target="_blank">
 <img src="https://via.placeholder.com/400x250/1f2228/FFFFFF?text=Intelli+Bot+Project" alt="Intelli Bot Project" />
 </a>
-<br />
-<p align="center">
-Architected a hybrid AI chatbot with offline intent classification and online LLM integration.
-</p>
+<p align="center">🧠 Hybrid chatbot: Offline intent + Online LLM integration.</p>
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">iOS Fitness App</h3>
-<br />
+<h3 align="center">📱 iOS Fitness App</h3>
 <a href="https://github.com/vikassaini77/ios-fitness-app" target="_blank">
 <img src="https://via.placeholder.com/400x250/1f2228/FFFFFF?text=iOS+Fitness+App" alt="iOS Fitness App Project" />
 </a>
-<br />
-<p align="center">
-Created a mobile fitness tracker for iOS with HealthKit integration and automated PDF reports.
-</p>
+<p align="center">🏃‍♂️ HealthKit integration + automated PDF reports.</p>
 </td>
+
 <td width="50%" valign="top">
-<h3 align="center">Valo Bot - AI Chatbot</h3>
-<br />
+<h3 align="center">🎮 Valo Bot - AI Chatbot</h3>
 <a href="https://github.com/vikassaini77/valobot" target="_blank">
 <img src="https://via.placeholder.com/400x250/1f2228/FFFFFF?text=Valo+Bot+Project" alt="Valo Bot Project" />
 </a>
-<br />
-<p align="center">
-Developed an AI-powered assistant during the AWS & VCT Hackathon for esports analysis.
-</p>
+<p align="center">⚔️ Built for AWS + VCT Hackathon → esports analysis bot.</p>
 </td>
 </tr>
 </table>
 
 ---
 
-### 🏆 Certificates & Achievements  
-- Accenture North America Data Analytics (Forage)  
-- Rannit-E Case Study Competition (NIT Durgapur)  
-- Top 10 Finalist, GLA University Chess Competition (300+ participants)  
-- AWS & VCT AI Chatbot Challenge  
-- C++ Programming Internship @ Techvanto Academy  
+## 🏆 Certificates & Achievements  
+- 🏅 Accenture North America Data Analytics (Forage)  
+- 📊 Rannit-E Case Study Competition (NIT Durgapur)  
+- ♟️ Top 10 Finalist, GLA University Chess Competition (300+ participants)  
+- 🤖 AWS & VCT AI Chatbot Challenge  
+- 💻 C++ Programming Internship @ Techvanto Academy  
 
 ---
 
-### 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity  
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=vikassaini77&show_icons=true&theme=tokyonight&rank_icon=github" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassaini77&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 <details>
-<summary><b>💻 My Coding Activity (WakaTime)</b></summary>
+<summary><b>⌨️ My Coding Activity (WakaTime)</b></summary>
 <br/>
 <!--START_SECTION:waka-->
-<!--Your WakaTime stats will appear here-->
+<!--WakaTime stats auto update here-->
 <!--END_SECTION:waka-->
 </details>
 
@@ -166,11 +157,11 @@ Developed an AI-powered assistant during the AWS & VCT Hackathon for esports ana
 
 ---
 
-### 🐍 Contribution Graph
+## 🐍 Contribution Graph  
 <p align="center">
 <img src="https://raw.githubusercontent.com/vikassaini77/vikassaini77/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
 
-_Last updated: <!--LAST_UPDATED-->_
+<p align="center">🌟 _Last updated: <!--LAST_UPDATED-->_ 🌟</p>
