@@ -159,7 +159,7 @@ With a solid base in **Python, C++ & Data Structures**, I enjoy solving challeng
 
 ## 🐍 Contribution Graph  
 <p align="center">
-<img src="https://raw.githubusercontent.com/vikassaini77/vikassaini77/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/vikassaini77/vikassaini77/output/github-contribution-grid-snake.svg?v=1" alt="snake animation"/>
   <!-- simple activity graph (quick & reliable) -->
 </p>
 
