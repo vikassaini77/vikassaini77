@@ -4,10 +4,6 @@
 </a>
 </p>
 
-<p align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdUlqYLXa7Vgxq002pREevDtqMVRr9DF29zdYqMI8aLg3JB3tGD1M6WvCL9aiZnTE_dCChZ-h4rnKZtE0kyjAomfx2YHGifcHRw4KXyvJ_nxQ8PdxC_q1kgsOLY549oD4Z1DZsJDHGOA/s1600/Machine-Learning.gif" alt="Banner" width="100%"/>
-</p>
-
 <h1 align="center">✨ Hi there 👋, I'm Vikas Saini ✨</h1>
 
 <p align="center">
