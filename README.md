@@ -124,6 +124,10 @@ With a solid base in **Python, C++ & Data Structures**, I enjoy solving challeng
 
 ### ## 📊 GitHub Stats & Activity
 
+---
+
+### ## 📊 GitHub Stats & Activity
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=vikassaini77&show_icons=true&theme=tokyonight&rank_icon=github" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassaini77&layout=compact&theme=tokyonight" height="160"/>
@@ -136,8 +140,12 @@ With a solid base in **Python, C++ & Data Structures**, I enjoy solving challeng
 <details>
 <summary><b>⌨️ My Coding Activity (WakaTime)</b></summary>
 <br/>
+<p align="center">
+  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID/coding_activity_title.svg?style=flat-square" alt="Coding Activity"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vikassaini77&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
+</p>
 </details>
 
 ---
-
-<p align="center">🌟 _Last updated: _ 🌟</p>
