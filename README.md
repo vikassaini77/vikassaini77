@@ -41,111 +41,35 @@ With a solid base in **Python, C++ & Data Structures**, I enjoy solving challeng
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-### ## 🛠️ Tech Stack
-
-<table>
-  <tr>
-    <td align="center"><strong>Languages</strong></td>
-    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Backend</strong></td>
-    <td><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>ML / DL</strong></td>
-    <td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Databases & Tools</strong></td>
-    <td><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Cloud & DevOps</strong></td>
-    <td><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></td>
-  </tr>
-</table>
-
----
-
-### ## ✨ Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3 align="center">📂 Asynchronous File Parser API</h3>
-<a href="https://github.com/vikassaini77/file-parser-api" target="_blank">
-<img src="https://via.placeholder.com/400x250/1f2228/FFFFFF?text=File+Parser+API" alt="File Parser API Project" />
-</a>
-<p align="center">⚡ Scalable backend system for async file uploads & parsing.</p>
-</td>
-<td width="50%" valign="top">
-<h3 align="center">🤖 Intelli Bot - AI Chat Assistant</h3>
-<a href="https://github.com/vikassaini77/intellibot" target="_blank">
-<img src="https://via.placeholder.com/400x250/1f2228/FFFFFF?text=Intelli+Bot+Project" alt="Intelli Bot Project" />
-</a>
-<p align="center">🧠 Hybrid chatbot: Offline intent + Online LLM integration.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3 align="center">📱 iOS Fitness App</h3>
-<a href="https://github.com/vikassaini77/ios-fitness-app" target="_blank">
-<img src="https://via.placeholder.com/400x250/1f2228/FFFFFF?text=iOS+Fitness+App" alt="iOS Fitness App Project" />
-</a>
-<p align="center">🏃‍♂️ HealthKit integration + automated PDF reports.</p>
-</td>
-<td width="50%" valign="top">
-<h3 align="center">🎮 Valo Bot - AI Chatbot</h3>
-<a href="https://github.com/vikassaini77/valobot" target="_blank">
-<img src="https://via.placeholder.com/400x250/1f2228/FFFFFF?text=Valo+Bot+Project" alt="Valo Bot Project" />
-</a>
-<p align="center">⚔️ Built for AWS + VCT Hackathon → esports analysis bot.</p>
-</td>
-</tr>
-</table>
-
----
-
-### ## 🏆 Certificates & Achievements
-- 🏅 Accenture North America Data Analytics (Forage)
-- 📊 Rannit-E Case Study Competition (NIT Durgapur)
-- ♟️ Top 10 Finalist, GLA University Chess Competition (300+ participants)
-- 🤖 AWS & VCT AI Chatbot Challenge
-- 💻 C++ Programming Internship @ Techvanto Academy
-
----
-
 ### ## 📊 GitHub Stats & Activity
-
----
-
-### ## 📊 GitHub Stats & Activity
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=vikassaini77&show_icons=true&theme=tokyonight&rank_icon=github" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassaini77&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vikassaini77/vikassaini77/output/snake.svg" alt="snake animation"/>
 </p>
 
 <details>
 <summary><b>⌨️ My Coding Activity (WakaTime)</b></summary>
 <br/>
 <p align="center">
-  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID/coding_activity_title.svg?style=flat-square" alt="Coding Activity"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vikassaini77&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vikassaini77&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassaini77&layout=compact&theme=tokyonight" height="160"/>
 </p>
 </details>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vikassaini77/vikassaini77/output/snake.svg" alt="snake animation"/>
+</p>
+
 ---
+
+<p align="center">🌟 _Last updated: _ 🌟</p>
