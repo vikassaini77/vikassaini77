@@ -65,14 +65,14 @@ With a solid base in **Python, C++ & Data Structures**, I enjoy solving challeng
 <tr>
 <td width="50%" valign="top">
 <h3 align="center">📱 iOS Fitness App</h3>
-<a href="https://github.com/vikassaini77/ios-fitness-app" target="_blank">
+<a href="https://tse3.mm.bing.net/th/id/OIP.yQU9yUd-zelrvaybCkfNUgAAAA?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" target="_blank">
 <img src="https://via.placeholder.com/400x250/1f2228/FFFFFF?text=iOS+Fitness+App" alt="iOS Fitness App Project" />
 </a>
 <p align="center">🏃‍♂️ HealthKit integration + automated PDF reports.</p>
 </td>
 <td width="50%" valign="top">
 <h3 align="center">🎮 Valo Bot - AI Chatbot</h3>
-<a href="https://github.com/vikassaini77/valobot" target="_blank">
+<a href="https://s3-alpha.figma.com/hub/file/294322675/1df4ad65-fb09-4700-8e79-3aa5de0650be-cover" target="_blank">
 <img src="https://via.placeholder.com/400x250/1f2228/FFFFFF?text=Valo+Bot+Project" alt="Valo Bot Project" />
 </a>
 <p align="center">⚔️ Built for AWS + VCT Hackathon → esports analysis bot.</p>
