@@ -1,17 +1,15 @@
 <p align="center">
   <a href="https://github.com/vikassaini77">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmUxeXc5MHlpbDE5ZGR3aWR0dmk1cHZ1N2VocDQ3Y3VjZjVuNXlteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MCd33lAKSLajqWT60m/giphy.gif" alt="Vikas Saini - AI Engineer Banner" width="100%"/>
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmUxeXc5MHlpbDE5ZGR3aWR0dmk1cHZ1N2VocDQ3Y3VjZjVuNXlteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MCd33lAKSLajqWT60m/giphy.gif" 
+         alt="Vikas Saini - AI Engineer Banner" width="100%"/>
   </a>
 </p>
-
-<h1 align="center">✨ Hi there 👋, I'm Vikas Saini ✨</h1>
-
 
 <h1 align="center">✨ Hey, I'm <a href="https://github.com/vikassaini77">Vikas Saini</a> 👋</h1>
 <h3 align="center">🚀 Machine Learning Engineer | 💻 iOS Developer | 🔥 AI Innovator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=00F7F7&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+That+Think.;Designing+Apps+That+Feel+Human.;Merging+AI+%2B+iOS+for+Next+Gen+Experiences.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=00F7F7&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+That+Think.;Designing+Apps+That+Feel+Human.;Merging+AI+%2B+iOS+for+Next+Gen+Experiences." alt="Typing Animation">
 </p>
 
 <p align="center">
@@ -30,25 +28,24 @@
 
 ### 🧠 About Me
 A **Machine Learning Engineer** who builds smart systems that actually *do something useful* — not just look cool.  
-Also dabbling in **iOS Development**, blending **AI + design** to make tech feel more personal.  
+Also passionate about **iOS Development**, blending **AI + design** to make tech feel more personal.  
 
-- 🌍 Currently working on **ValoBot (AI Assistant)** & **Smart Fitness iOS App**
+- 🌍 Currently building **ValoBot (AI Assistant)** & **Smart Fitness iOS App**
 - 🧩 Exploring **MLOps, Cloud Deployments, and Model Optimization**
-- ⚡ Quick debug therapy: **coffee + lo-fi beats**
-- 💬 Let’s chat about **Deep Learning • Swift • FastAPI • Vision AI**
+- ⚡ Debug therapy: **coffee + lo-fi beats**
+- 💬 Ask me about **Deep Learning • Swift • FastAPI • Vision AI**
 
 ---
 
 ### 🚀 Tech Stack
 <p align="center">
-  <!-- Core -->
+  <!-- Core AI/ML -->
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 <p align="center">
@@ -68,37 +65,4 @@ Also dabbling in **iOS Development**, blending **AI + design** to make tech feel
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
----
-
-### 💼 Featured Projects
-| 💡 Project | 🔍 Description | 🧰 Tech Stack |
-|-------------|----------------|----------------|
-| [**ValoBot 🤖**](https://github.com/vikassaini77/ValoBot) | AI assistant with voice, NLP, and image understanding | Python, FastAPI, PyTorch, OpenAI |
-| [**Smart Fitness App 💪**](https://github.com/vikassaini77/Fitness-App-iOS) | iOS fitness tracker using HealthKit and CoreMotion | Swift, UIKit, HealthKit |
-| [**Smart Crop Monitor 🌾**](https://github.com/vikassaini77/Smart-Crop-Monitor) | ML-based crop pest detection dashboard | React, Flask, OpenCV |
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikassaini77&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikassaini77&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassaini77&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🧩 Fun Add-On
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikassaini77&theme=onestar&no-bg=true&no-frame=true&margin-w=10" />
-</p>
-
----
-
-<p align="center">
-  <i>“The goal is simple — make machines think and make interfaces feel.”</i>
 </p>
