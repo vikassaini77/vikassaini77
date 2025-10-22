@@ -3,6 +3,15 @@
     <img src="https://raw.githubusercontent.com/vikassaini77/ValoBot/main/assets/banner.gif" alt="Vikas Saini - AI Engineer Banner" width="100%"/>
   </a>
 </p>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmUxeXc5MHlpbDE5ZGR3aWR0dmk1cHZ1N2VocDQ3Y3VjZjVuNXlteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MCd33lAKSLajqWT60m/giphy.gif" 
+       alt="Intro Animation" 
+       width="100%" 
+       style="border-radius: 15px; margin-bottom: 10px;">
+</p>
+
+<h1 align="center">✨ Hi there 👋, I'm Vikas Saini ✨</h1>
+
 
 <h1 align="center">✨ Hey, I'm <a href="https://github.com/vikassaini77">Vikas Saini</a> 👋</h1>
 <h3 align="center">🚀 Machine Learning Engineer | 💻 iOS Developer | 🔥 AI Innovator</h3>
