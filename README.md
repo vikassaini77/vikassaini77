@@ -73,7 +73,7 @@ With a solid base in **Python, C++ & Data Structures**, I enjoy solving challeng
 <td width="50%" valign="top">
 <h3 align="center">🎮 Valo Bot - AI Chatbot</h3>
 <a href="https://s3-alpha.figma.com/hub/file/294322675/1df4ad65-fb09-4700-8e79-3aa5de0650be-cover" target="_blank">
-<img src="https://via.placeholder.com/400x250/1f2228/FFFFFF?text=Valo+Bot+Project" alt="Valo Bot Project" />
+<img src="https://s3-alpha.figma.com/hub/file/294322675/1df4ad65-fb09-4700-8e79-3aa5de0650be-covert" alt="Valo Bot Project" />
 </a>
 <p align="center">⚔️ Built for AWS + VCT Hackathon → esports analysis bot.</p>
 </td>
