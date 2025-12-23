@@ -144,6 +144,8 @@ I design for **latency, stability, cost, observability, and trust** — the thin
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vikassaini77&theme=radical&hide_border=true" width="48%"/>
 </div>
 
+🏆 GitHub Trophies
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vikassaini77&theme=radical" alt="Vikas Saini Trophies" />
 </div>
