@@ -212,29 +212,53 @@ I’ve engineered systems across:
 
 ---
 
-## 🧪 Design Philosophy
+## 🧪 Design Philosophy  
+> **How I think before I code**
 
-- Accuracy is **table stakes**
-- Latency is **non-negotiable**
-- Explainability builds **trust**
-- Systems fail — **engineers plan for it**
+<p align="center">
+  <img src="https://img.shields.io/badge/Principle-Accuracy_is_Table_Stakes-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Principle-Latency_is_Non--Negotiable-critical?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Principle-Explainability_Builds_Trust-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Principle-Systems_Will_Fail-orange?style=for-the-badge" />
+</p>
+
+**What this means in practice**
+- Accuracy is the **starting point**, not the goal  
+- Latency and throughput are **first-class constraints**  
+- Models must explain *why*, not just predict *what*  
+- Failure is inevitable — **resilience is engineered, not hoped for**
 
 ---
 
-## 🔬 What I’m Currently Exploring
-- Edge AI (ONNX → TensorRT)
-- Large-scale dataset evaluation
-- Vision + LLM hybrid reasoning
-- Production MLOps patterns
+## 🔬 What I’m Currently Exploring  
+> **Staying ahead of production realities**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Edge_AI_(ONNX_→_TensorRT)-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Dataset_Evaluation_%26_Bias-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Vision_+_LLM_Reasoning-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Production_MLOps-orange?style=for-the-badge" />
+</p>
+
+- Edge inference optimization & profiling  
+- Large-scale dataset quality & failure analysis  
+- Vision systems augmented with LLM reasoning  
+- Scalable, observable MLOps patterns  
 
 ---
 
-## 🎯 Roles I’m Optimized For
-- Machine Learning Engineer  
-- Computer Vision Engineer  
-- Applied AI Engineer  
+## 🎯 Roles I’m Optimized For  
+> **Where I deliver the most value**
 
-🌍 Open to global & remote roles
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Machine_Learning_Engineer-00F2FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Computer_Vision_Engineer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Applied_AI_Engineer-purple?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Availability-Global_%26_Remote_Ready-success?style=for-the-badge" />
+</p>
 
 ---
 
