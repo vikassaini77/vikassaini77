@@ -157,6 +157,11 @@ I design for **latency, stability, cost, observability, and trust** — the thin
 </div>
 
 ---
+## 🐍 Contribution Flow
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=30,25,2,0" width="100%" />
