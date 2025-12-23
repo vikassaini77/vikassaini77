@@ -18,18 +18,6 @@
   <img src="https://komarev.com/ghpvc/?username=vikassaini77&style=for-the-badge&color=00F2FF" />
 </p>
 
----
-
-## 🧭 Who I Am (Quick Scroll, Big Signal)
-
-I’m a **Machine Learning Engineer** focused on building **AI systems that work outside notebooks**.
-
-I don’t chase leaderboard scores.  
-I design for **latency, stability, cost, observability, and trust** — the things that decide whether AI *actually ships*.
-
-> **Models impress. Systems endure.**
-
----
 
 ## 🧠 Core Engineering Domains
 
