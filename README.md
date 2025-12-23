@@ -133,10 +133,6 @@ I design for **latency, stability, cost, observability, and trust** — the thin
 </p>
 
 ---
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikassaini77&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Vikas Saini Trophies" />
-</div>
----
 
 ## 📊 GitHub Analytics
 <div align="center">
@@ -150,7 +146,6 @@ I design for **latency, stability, cost, observability, and trust** — the thin
     <img src="https://github-profile-trophy.vercel.app/?username=vikassaini77&theme=radical&column=7" alt="Trophies" />
   </a>
 </div>
-
 ---
 
 ## 🐍 Contribution Flow
