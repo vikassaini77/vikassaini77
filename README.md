@@ -1,107 +1,29 @@
-# 👋 Hi, I’m Vikas Saini  
-### Machine Learning Engineer | Computer Vision • LLMs • Applied AI
+<!-- ===================================================== -->
+<!-- 🔮 VIKAS SAINI — MACHINE LEARNING ENGINEER 🔮 -->
+<!-- ===================================================== -->
 
-> “I don’t build demo projects. I build systems that survive real-world chaos.”
+<!-- 🌌 HERO ANIMATION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E6FF,100:8A2BE2&height=260&section=header&text=Vikas%20Saini&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
----
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00E6FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Computer+Vision+%7C+LLMs+%7C+Explainable+AI;I+Build+AI+Systems+That+Survive+Reality;Not+Demos.+Not+Toy+Projects.+Production." />
+</h3>
 
-## 🧠 About Me
-
-I’m a final-year Computer Science student with a deep obsession for **Machine Learning that actually works in production**.  
-Not toy notebooks. Not copy-paste Kaggle stuff.  
-I focus on **end-to-end AI systems** — from data → model → explainability → deployment.
-
-I believe in old-school fundamentals (math, logic, discipline) mixed with modern tools (PyTorch, FastAPI, LLMs).  
-The goal? **Build AI that people can trust.**
-
----
-
-## 🚀 What I’m Currently Building
-
-### 🩺 **MedVision AI** — Medical Image Intelligence (XAI)
-- Chest X-ray classification using **ResNet50**
-- Achieved **92–95% accuracy**
-- Integrated **Grad-CAM** for explainability (because black-box models don’t belong in healthcare)
-- Deployed with **FastAPI** for real-time inference  
-📌 *Designed for high-stakes, regulated ML environments*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vikas-saini&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/github/followers/vikas-saini?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/vikas-saini?style=for-the-badge&color=cyan" />
+</p>
 
 ---
 
-### 🧠 **IntelliBot PRO+** — Advanced AI Assistant Platform
-- Intent classification + PDF Q&A
-- LLM-powered responses (OpenAI + Gemini)
-- Secure API handling with `.env`
-- Custom frontend (not Streamlit) with animations, themes & avatars
-- Built to scale, not just impress  
-📌 *Shows real-world NLP + system design skills*
+## 🧠 SYSTEM OVERVIEW (READ THIS)
 
----
-
-### 🚨 **SafeCity AI** — Intelligent Surveillance & Event Detection
-- Detects **accidents, violence & anomalies**
-- Computer Vision–driven event pipeline
-- Structured logging & dashboard-ready outputs
-- Designed for **smart cities & public safety use-cases**  
-📌 *Not just detection — actionable intelligence*
-
----
-
-## 🛠️ Tech Stack (Battle-Tested)
-
-**Languages**  
-- Python • C++ • Swift
-
-**ML / AI**  
-- PyTorch • TensorFlow • YOLOv8  
-- Scikit-learn • Hugging Face  
-- Grad-CAM • Transfer Learning
-
-**Backend & APIs**  
-- FastAPI • Flask  
-- REST APIs • Model Serving
-
-**MLOps & Tools**  
-- Git • Docker (learning)  
-- Environment-based config (`.env`)  
-- Logging & evaluation pipelines
-
----
-
-## 📊 What Makes My Work Different
-
-✅ Production mindset (not notebook-only)  
-✅ Explainability > blind accuracy  
-✅ Clean project structure  
-✅ Real-world problem selection  
-✅ Focus on **impact, not hype**
-
-Most people learn models.  
-I learn **systems**.
-
----
-
-## 🎯 Career Focus
-
-I’m actively looking for roles in:
-- **Machine Learning Engineer**
-- **Computer Vision Engineer**
-- **Applied AI / Research Engineer (Entry-Level)**
-
-I’m especially interested in teams solving **real problems** — healthcare, safety, automation, intelligent systems.
-
----
-
-## 📫 Let’s Connect
-
-- 💼 LinkedIn: *(add your link here)*
-- 📧 Email: *(add your email here)*
-- 🌍 Open to internships, full-time roles & serious collaborations
-
----
-
-### ⚡ Fun Fact
-
-I’d rather spend 10 hours fixing one real bug  
-than spend 10 minutes flexing fake metrics.
-
-If you’re here, you’re probably building something real too 🤝
+```diff
++ Name        : Vikas Saini
++ Role        : Machine Learning Engineer
++ Focus       : Real-world AI systems
++ Strength    : From data → model → explainability → deployment
+- Weakness    : Fake metrics & copy-paste projects
