@@ -1,167 +1,163 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=gradient&customColorList=0,2,25,30&text=Vikas%20Saini&fontSize=78&fontColor=00F2FF&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Systems%20Builder&descAlignY=58&descSize=24" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=330&color=gradient&customColorList=0,2,25,30&text=Vikas%20Saini&fontSize=76&fontColor=00F2FF&animation=fadeIn&fontAlignY=36&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Systems%20Builder&descAlignY=55&descSize=22" width="100%" />
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2600&pause=900&color=00F2FF&center=true&vCenter=true&width=1000&lines=I+engineer+AI+systems+that+survive+production.;Computer+Vision+%7C+NLP+%7C+MLOps.;Latency%2C+scale%2C+explainability+are+non-negotiable.;From+dataset+chaos+to+production+stability.;Open+to+global+AI+roles." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=00F2FF&center=true&vCenter=true&width=980&lines=I+build+AI+systems+that+don’t+panic+in+production.;Computer+Vision+%7C+NLP+%7C+MLOps;Latency%2C+scale%2C+explainability+are+non-negotiable.;From+dataset+chaos+to+real-world+stability.;Open+to+global+AI+roles." />
 </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vikas-saini1">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:vikassn44@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/vikassaini77">
-    <img src="https://img.shields.io/github/followers/vikassaini77?label=Followers&style=for-the-badge&logo=github&color=2ea44f" />
+    <img src="https://img.shields.io/github/followers/vikassaini77?label=Followers&style=for-the-badge&logo=github&color=2ea44f"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=vikassaini77&style=for-the-badge&color=00F2FF" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vikassaini77&label=Profile%20Views&color=00F2FF&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🧭 Who I Am (Quick Scroll, Big Signal)
+## 🧭 Who I Am (Quick Scan)
 
-I’m a **Machine Learning Engineer** focused on building **AI systems that work outside notebooks**.
+I’m a **Machine Learning Engineer** who builds **AI systems that survive the real world**.
 
-I don’t chase leaderboard scores.  
-I design for **latency, stability, cost, observability, and trust** — the things that decide whether AI *actually ships*.
+- ❌ Not notebook-only ML  
+- ✅ Production-grade, failure-aware AI  
 
-> **Models impress. Systems endure.**
+I optimize for what *actually matters*:
+**latency · stability · cost · trust**
+
+> *A model is a theory.  
+> A deployed system is responsibility.*
 
 ---
 
-## 🧠 Core Engineering Domains
+## 🧠 Engineering Stack (Signal Only)
 
 ### ⚡ Real-Time AI Systems
-<p align="center">
-  <img src="https://img.shields.io/badge/Latency-Sub_200ms-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Throughput-30%2B_FPS-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Production_AI-00F2FF?style=for-the-badge"/>
-</p>
+![Latency](https://img.shields.io/badge/Latency-Sub_200ms-success?style=for-the-badge)
+![FPS](https://img.shields.io/badge/Throughput-30%2B_FPS-blue?style=for-the-badge)
 
-- Multi-stream video inference pipelines  
-- PyTorch → ONNX → TensorRT optimization  
-- Failure-aware & restart-safe architectures  
+- Multi-camera inference pipelines  
+- PyTorch → ONNX → TensorRT  
+- Memory & GPU optimization  
+- Crash-safe, restart-resilient systems  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,onnx,tensorflow&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,onnx,tensorflow&perline=5"/>
 </p>
 
 ---
 
 ### 👁️ Computer Vision Engineering
-- YOLOv8 (Detection · Tracking · Pose)  
-- Explainability via Grad-CAM  
-- Dataset bias & failure-case analysis  
-- Edge vs Cloud trade-off engineering  
+- YOLOv8 (detection · tracking · pose)  
+- Grad-CAM explainability  
+- Bias & edge-case analysis  
+- Edge vs Cloud deployment decisions  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch&perline=3" />
+  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch&perline=3"/>
 </p>
 
 ---
 
 ### 🧩 NLP & LLM Systems
-<p align="center">
-  <img src="https://img.shields.io/badge/Architecture-Hybrid_NLP_+_LLMs-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLM_Usage-On_Demand-yellow?style=for-the-badge"/>
-</p>
-
-- Classical NLP for speed & cost  
-- LLMs only when necessary  
-- Routing, evaluation, guardrails & fallbacks  
+- Classical NLP (cheap, fast, reliable)  
+- Transformer pipelines  
+- Hybrid NLP + LLM routing  
+- Guardrails, evals & fallbacks  
 
 ---
 
-### ⚙️ ML Backend & MLOps
+### ⚙️ Backend & MLOps
 - FastAPI inference services  
 - Dockerized ML pipelines  
-- AWS EC2 deployments  
+- AWS EC2 deployment  
 - CI/CD, logging & monitoring  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,aws,linux,git&perline=5" />
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,aws,linux,git&perline=5"/>
 </p>
 
 ---
 
 ## 🚀 Flagship Systems
 
-### 🏙️ SafeCity AI — Real-Time Urban Incident Detection
-**YOLOv8 · ONNX · TensorRT · FastAPI · Docker**
+### 🏙️ SafeCity AI — Real-Time Incident Detection
+- <200ms latency, 30+ FPS  
+- Multi-stream camera orchestration  
+- Edge-optimized YOLOv8 pipelines  
 
-- Multi-camera real-time inference  
-- Sub-200ms latency  
-- Edge-optimized deployment  
+**Stack:** YOLOv8 · ONNX · TensorRT · FastAPI · Docker  
 
 ---
 
-### 👁️ MedVision AI — Explainable Medical Imaging
-**PyTorch · TensorFlow · Grad-CAM**
-
+### 👁️ MedVision AI — Explainable Healthcare ML
 - 92–95% accuracy  
-- Explainability-first design  
-- Built for clinical trust  
+- Grad-CAM driven trust  
+- Built for clinical transparency  
 
 ---
 
-### 🤖 IntelliBot PRO+ — Hybrid NLP + LLM System
-**Flask · Scikit-learn · LLM APIs · AWS**
-
-- Intent routing with classical NLP  
-- Cost-optimized LLM usage  
+### 🤖 IntelliBot PRO+ — Hybrid NLP + LLM
+- NLP-first routing  
+- LLMs only when needed  
 - ~92% intent accuracy  
+- Cost-optimized inference  
 
 ---
 
 ### 🌾 Smart Crop Monitor — Vision + IoT
-**YOLOv8 · Raspberry Pi · React**
-
 - Pest & disease detection  
-- Sensor-driven alerts  
-- Designed for real farms  
+- Sensor-based alerts  
+- Real farm constraints, not lab demos  
 
 ---
 
-## 🧪 Engineering Philosophy
+## 🧪 Design Philosophy
 <p align="center">
-  <img src="https://img.shields.io/badge/Accuracy-Is_Just_The_Entry-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Accuracy-Table_Stakes-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Latency-Non_Negotiable-critical?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Explainability-Builds_Trust-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Failure-Is_Engineered_For-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Explainability-Trust-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Failure-Engineered_For-orange?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikassaini77&theme=radical&no-frame=true&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vikassaini77&theme=radical&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
 ## 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikassaini77&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vikassaini77&show_icons=true&theme=radical&hide_border=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vikassaini77&theme=radical&hide_border=true" width="48%"/>
-</div>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikassaini77&bg_color=0d1117&color=00F2FF&line=fe428e&point=ffffff&hide_border=true" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikassaini77&bg_color=141321&color=00F2FF&line=fe428e&point=FFFFFF&hide_border=true"/>
+</p>
 
 ---
 
-## 🐍 Contribution Flow
+## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/vikassaini77/vikassaini77/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=30,25,2,0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=30,25,2,0"/>
   <p><i>"Models impress. Systems endure."</i></p>
 </div>
