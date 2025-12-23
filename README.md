@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2800&pause=900&color=00F2FF&center=true&vCenter=true&width=950&lines=Machine+Learning+Engineer;Computer+Vision+%7C+NLP+%7C+MLOps;YOLOv8+%7C+LLMs+%7C+FastAPI+%7C+Docker;From+Research+to+Production+AI+Systems;Open+to+Global+Opportunities+🌍" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2800&pause=900&color=00F2FF&center=true&vCenter=true&width=950&lines=Machine+Learning+Engineer;Computer+Vision+%7C+NLP+%7C+MLOps;YOLOv8+%7C+LLMs+%7C+FastAPI+%7C+Docker;From+Research+to+Production+AI+Systems;Open+to+Global+Opportunities" />
 </h3>
 
 <p align="center">
@@ -22,36 +22,38 @@
 
 ## 👋 About Me
 
-I am a **Machine Learning Engineer** specializing in **Computer Vision, NLP, and production-grade AI systems**.  
-I enjoy building **end-to-end ML pipelines** — from dataset preparation and model training to deployment and optimization.
+I am a **Machine Learning Engineer** focused on building **production-grade AI systems** in  
+**Computer Vision, NLP, and scalable ML pipelines**.
 
-- 🎯 Strong focus on **real-time & scalable AI**
-- ⚙️ Experienced in **YOLOv8, PyTorch, FastAPI, Docker**
+I specialize in taking ideas **from dataset → model → optimization → deployment**, with strong emphasis on **performance, explainability, and real-world constraints**.
+
+- 🎯 Focused on **real-time & scalable AI**
+- ⚙️ Hands-on with **YOLOv8, PyTorch, FastAPI, Docker**
 - 🧠 Passionate about **bridging research and production**
 - 🌍 Open to **global ML / AI roles**
 
-> *Anyone can train a model. Engineering it for the real world is what I do.*
+> *Anyone can train a model. Engineering it for the real world is what matters.*
 
 ---
 
-## 🧠 Core Skill Set (Animated)
+## 🧠 Core Skill Set
 
-### 🤖 Machine Learning & AI
+### 🤖 Machine Learning & Computer Vision
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,opencv,scikitlearn&perline=6" />
 </div>
 
 - PyTorch, TensorFlow, Scikit-learn  
 - YOLOv8, Grad-CAM, ONNX, TensorRT  
-- Model Optimization, Real-time Inference  
+- Real-time inference & model optimization  
 
 ---
 
-### 🧩 NLP & LLMs
+### 🧩 NLP & LLM Systems
 - TF-IDF, Logistic Regression  
 - Tokenization, Lemmatization, Vectorization  
 - Hugging Face Transformers, LangChain  
-- Hybrid NLP + LLM systems  
+- Hybrid **Classical NLP + LLM** pipelines  
 
 ---
 
@@ -61,8 +63,9 @@ I enjoy building **end-to-end ML pipelines** — from dataset preparation and mo
 </div>
 
 - FastAPI, REST APIs  
-- Docker, AWS EC2  
-- CI/CD, Model Serving  
+- Dockerized ML services  
+- AWS EC2 deployment  
+- CI/CD & model serving  
 
 ---
 
@@ -72,7 +75,7 @@ I enjoy building **end-to-end ML pipelines** — from dataset preparation and mo
 </div>
 
 - iOS Development (UIKit, Core Data)  
-- React Dashboards  
+- React-based dashboards for ML systems  
 
 ---
 
@@ -80,37 +83,37 @@ I enjoy building **end-to-end ML pipelines** — from dataset preparation and mo
 
 ### 🏙️ SafeCity AI — Real-Time Accident & Violence Detection
 **Tech:** YOLOv8, ONNX, TensorRT, FastAPI, Docker  
-- Achieved **95–96% event-level accuracy**
-- Optimized models for **30+ FPS** on edge devices
-- Multi-camera inference backend with <200ms latency
+- Achieved **~95% event-level accuracy** on internal validation  
+- Optimized for **30+ FPS** real-time inference  
+- Multi-camera backend with **<200ms latency**
 
 ---
 
 ### 👁️ MedVision AI — Medical Image Classification (XAI)
 **Tech:** PyTorch, TensorFlow, Grad-CAM  
-- Built ResNet-based medical classifier (92–95% accuracy)
-- Integrated explainability for clinical transparency
+- Built ResNet-based medical classifier (**92–95% accuracy**)  
+- Integrated explainability for clinical transparency  
 
 ---
 
-### 🤖 IntelliBot — Hybrid AI Chat Assistant
+### 🤖 IntelliBot PRO+ — Hybrid AI Chat Assistant
 **Tech:** Python, Flask, Scikit-learn, OpenAI API, AWS  
-- Built hybrid NLP + LLM chatbot (92% accuracy)
-- Secure EC2 deployment with multi-user support
+- Hybrid NLP + LLM chatbot (**~92% intent accuracy**)  
+- Secure EC2 deployment with multi-user support  
 
 ---
 
 ### 🌾 Smart Crop Monitor — AI + IoT
 **Tech:** YOLOv8, Raspberry Pi, React  
-- Pest & disease detection with 90%+ accuracy
-- IoT sensor integration for real-time alerts
+- Pest & disease detection (**90%+ accuracy**)  
+- IoT sensor integration with real-time alerts  
 
 ---
 
 ### 📱 iOS Fitness App
 **Tech:** Swift, UIKit, Core Data  
-- Native iOS app for workout tracking
-- Improved data retrieval speed by 40%
+- Native iOS workout tracking app  
+- Improved data retrieval speed by **40%**
 
 ---
 
@@ -120,12 +123,12 @@ I enjoy building **end-to-end ML pipelines** — from dataset preparation and mo
 **Nov 2024 – Jan 2025**
 - Improved NLP model accuracy by **15%**
 - Processed large-scale text datasets (50k+ tokens)
-- Built evaluation & data quality pipelines
+- Built evaluation & data-quality pipelines
 
 ### C++ Intern — **Techvanto Academy**
 **Jul 2024 – Aug 2024**
 - OOP, DSA, file handling systems
-- Solved 50+ real-world coding problems
+- Solved **50+ real-world coding problems**
 
 ---
 
@@ -141,9 +144,29 @@ I enjoy building **end-to-end ML pipelines** — from dataset preparation and mo
 ---
 
 ## 🏆 Achievements
+
 - Top 10 / 300 — GLA University Chess Competition  
 - AWS & VCT AI Chatbot Hackathon  
 - IIT Indore Hackathon — Healthcare Management System  
+
+---
+
+## 🔬 Currently Exploring
+
+- Edge AI optimization (ONNX → TensorRT)
+- Advanced MLOps workflows
+- Large-scale dataset curation & evaluation
+- Vision + LLM hybrid systems
+
+---
+
+## 🎯 Open To Roles
+
+- Machine Learning Engineer  
+- Computer Vision Engineer  
+- Applied AI Engineer  
+
+📍 Open to relocation & remote roles
 
 ---
 
