@@ -145,7 +145,7 @@ I design for **latency, stability, cost, observability, and trust** — the thin
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikassaini77&bg_color=0d1117&color=00F2FF&line=fe428e&point=ffffff&hide_border=true" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vikassaini77&theme=radical" alt="Vikas Saini Trophies" />
 </div>
 
 ---
