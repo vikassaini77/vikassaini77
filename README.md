@@ -26,4 +26,3 @@
 + Role        : Machine Learning Engineer
 + Focus       : Real-world AI systems
 + Strength    : From data → model → explainability → deployment
-- Weakness    : Fake metrics & copy-paste projects
