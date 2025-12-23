@@ -134,14 +134,13 @@ I design for **latency, stability, cost, observability, and trust** — the thin
 </p>
 
 ---
-## 🏆 GitHub Achievements
+## 📊 GitHub Signal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Commits-Active-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub-Consistent-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Code-Production_Ready-critical?style=for-the-badge"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vikassaini77&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vikassaini77&theme=radical&hide_border=true" width="48%"/>
 </p>
+
 
 
 
