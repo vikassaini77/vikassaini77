@@ -44,13 +44,17 @@ I’ve engineered systems across:
 ---
 
 ### ⚡ Real-Time AI Systems  
-**Where milliseconds matter and failure is not an option.**
+> **Where milliseconds matter**
+
+![Real-Time](https://img.shields.io/badge/Focus-Real--Time_AI-00F2FF?style=for-the-badge)
+![Latency](https://img.shields.io/badge/Latency-Sub_200ms-success?style=for-the-badge)
+![FPS](https://img.shields.io/badge/Throughput-30%2B_FPS-blue?style=for-the-badge)
 
 **What I Engineer**
 - Multi-stream video inference pipelines  
-- Model optimization: **PyTorch → ONNX → TensorRT**  
-- Memory, latency & throughput tuning  
-- Failure-aware and restart-safe systems  
+- PyTorch → ONNX → TensorRT optimization  
+- Memory & throughput tuning  
+- Failure-aware, restart-safe systems  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,onnx,tensorflow&perline=5" />
@@ -59,13 +63,16 @@ I’ve engineered systems across:
 ---
 
 ### 👁️ Computer Vision Engineering  
-**Vision as a system — not just bounding boxes.**
+> **Vision as a system, not just detection**
+
+![CV](https://img.shields.io/badge/Domain-Computer_Vision-purple?style=for-the-badge)
+![Edge](https://img.shields.io/badge/Deployment-Edge_%26_Cloud-orange?style=for-the-badge)
 
 **Capabilities**
 - YOLOv8 (detection · tracking · pose)  
-- Explainability with **Grad-CAM**  
+- Explainability via Grad-CAM  
 - Dataset bias & failure-case analysis  
-- Edge vs Cloud performance trade-offs  
+- Edge vs Cloud trade-off engineering  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,opencv,pytorch&perline=3" />
@@ -74,13 +81,16 @@ I’ve engineered systems across:
 ---
 
 ### 🧩 NLP & LLM Architecture  
-**Cost-aware, controllable AI — not prompt spam.**
+> **Cost-aware, controllable AI**
+
+![NLP](https://img.shields.io/badge/NLP-Classical_%2B_LLMs-9cf?style=for-the-badge)
+![Cost](https://img.shields.io/badge/LLM_Usage-On_Demand-yellow?style=for-the-badge)
 
 **Capabilities**
 - Classical NLP baselines (fast & cheap)  
-- Transformer-based pipelines  
-- Hybrid NLP + LLM routing systems  
-- Evaluation, guardrails & fallback logic  
+- Transformer pipelines  
+- Hybrid NLP + LLM routing  
+- Evaluation, guardrails & fallbacks  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python&perline=1" />
@@ -89,7 +99,11 @@ I’ve engineered systems across:
 ---
 
 ### ⚙️ ML Backend & MLOps  
-**If it can’t deploy, it doesn’t count.**
+> **If it can’t deploy, it doesn’t count**
+
+![Backend](https://img.shields.io/badge/API-FastAPI-green?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Infra-Docker_%7C_AWS-blue?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-CI%2FCD_Enabled-critical?style=for-the-badge)
 
 **Capabilities**
 - FastAPI inference services  
@@ -104,74 +118,82 @@ I’ve engineered systems across:
 ---
 
 ### 📱 Product-Level AI  
-**AI only matters when users can touch it.**
+> **AI is useless unless users can touch it**
+
+![Product](https://img.shields.io/badge/Product-AI_Enabled_UI-informational?style=for-the-badge)
+
+- iOS & Web interfaces for ML systems  
+- Dashboards, controls & feedback loops  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=swift,react,js&perline=3" />
 </p>
 
-- iOS & web interfaces for ML systems  
-- Dashboards, controls & feedback loops  
-
 ---
 
 ## 🚀 Selected Systems  
-> **Not “projects” — engineered systems with constraints.**
+> **Not “projects” — engineered systems with constraints**
 
 ---
 
 ### 🏙️ SafeCity AI — Real-Time Urban Incident Detection  
+
+![System](https://img.shields.io/badge/System-Production_Ready-success?style=for-the-badge)
+![Latency](https://img.shields.io/badge/Latency-%3C200ms-brightgreen?style=for-the-badge)
+![FPS](https://img.shields.io/badge/FPS-30%2B-blue?style=for-the-badge)
+
 **Role:** ML Engineer & System Architect  
 **Stack:** YOLOv8 · ONNX · TensorRT · FastAPI · Docker  
 
-**Constraint**  
-High-volume video streams.  
-Low tolerance for delay.  
-Zero room for false alerts.
+**Constraint**
+- High-volume video streams  
+- Zero tolerance for delay  
+- False alerts unacceptable  
 
-**System Highlights**
+**System**
 - Real-time accident & violence detection  
-- **30+ FPS** sustained inference  
-- **<200 ms** end-to-end latency  
 - Multi-camera orchestration  
+- Edge-optimized inference  
 
-**Why It Matters**  
-This system proves I can **engineer AI under pressure**,  
-not just train models in isolation.
+**Impact**
+> Proves ability to engineer AI **under pressure**, not just train models.
 
 ---
 
 ### 👁️ MedVision AI — Explainable Medical Imaging  
+
+![Healthcare](https://img.shields.io/badge/Domain-Healthcare_AI-red?style=for-the-badge)
+![XAI](https://img.shields.io/badge/XAI-Enabled-purple?style=for-the-badge)
+
 **Stack:** PyTorch · TensorFlow · Grad-CAM  
 
-**Constraint**  
-Accuracy without trust is unusable in healthcare.
-
-**System Highlights**
-- Medical image classifier (**92–95% accuracy**)  
+- Medical image classifier (92–95%)  
 - Explainability-first architecture  
-- Visual clinical reasoning via Grad-CAM  
+- Built for clinical trust  
 
 ---
 
 ### 🤖 IntelliBot PRO+ — Hybrid NLP + LLM System  
+
+![LLM](https://img.shields.io/badge/LLM-Hybrid_System-blueviolet?style=for-the-badge)
+![Cost](https://img.shields.io/badge/Cost-Optimized-yellow?style=for-the-badge)
+
 **Stack:** Flask · Scikit-learn · LLM APIs · AWS  
 
-**Constraint**  
-LLMs are powerful, but expensive and unpredictable.
-
-**System Highlights**
-- Classical NLP for intent routing  
+- Classical NLP for routing  
 - LLMs only when necessary  
-- **~92% intent accuracy**  
-- Cost-efficient, scalable deployment  
+- ~92% intent accuracy  
+- Cost-efficient deployment  
 
 ---
 
 ### 🌾 Smart Crop Monitor — Vision + IoT  
+
+![Agri](https://img.shields.io/badge/Domain-Agriculture-green?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT-Enabled-orange?style=for-the-badge)
+
 **Stack:** YOLOv8 · Raspberry Pi · React  
 
-**System Highlights**
 - Pest & disease detection  
 - Sensor-driven real-time alerts  
 - Designed for real agricultural environments  
@@ -179,11 +201,14 @@ LLMs are powerful, but expensive and unpredictable.
 ---
 
 ### 📱 iOS Fitness App — AI-Ready Mobile Platform  
+
+![iOS](https://img.shields.io/badge/Platform-iOS-blue?style=for-the-badge)
+![Performance](https://img.shields.io/badge/Performance-40%25_Faster-success?style=for-the-badge)
+
 **Stack:** Swift · UIKit · Core Data  
 
-**System Highlights**
-- Optimized data access (**40% faster**)  
-- Built as a foundation for future ML insights  
+- Optimized data access (40% faster)  
+- Foundation for future ML-driven insights  
 
 ---
 
