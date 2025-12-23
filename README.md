@@ -143,11 +143,12 @@ I design for **latency, stability, cost, observability, and trust** — the thin
   <img src="https://github-readme-stats.vercel.app/api?username=vikassaini77&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vikassaini77&theme=radical&hide_border=true" width="48%"/>
 </div>
-
-🏆 GitHub Trophies
-
+---
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikassaini77&theme=radical" alt="Vikas Saini Trophies" />
+  <h3>🏆 Achievements</h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vikassaini77&theme=radical&column=7" alt="Trophies" />
+  </a>
 </div>
 
 ---
