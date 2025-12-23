@@ -1,4 +1,3 @@
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=gradient&customColorList=0,2,25,30&text=Vikas%20Saini&fontSize=78&fontColor=00F2FF&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Systems%20Builder&descAlignY=58&descSize=24" width="100%" />
 </div>
 
@@ -134,16 +133,9 @@ I design for **latency, stability, cost, observability, and trust** — the thin
 </p>
 
 ---
-## 📊 GitHub Signal
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikassaini77&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vikassaini77&theme=radical&hide_border=true" width="48%"/>
-</p>
-
-
-
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vikassaini77&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Vikas Saini Trophies" />
+</div>
 ---
 
 ## 📊 GitHub Analytics
