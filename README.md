@@ -136,9 +136,14 @@ I design for **latency, stability, cost, observability, and trust** — the thin
 ---
 
 ## 🏆 GitHub Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikassaini77&theme=radical&no-frame=true&column=7"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=vikassaini77&theme=radical&no-frame=true&row=1&column=6" 
+    alt="GitHub Trophies"
+  />
 </p>
+
 
 ---
 
