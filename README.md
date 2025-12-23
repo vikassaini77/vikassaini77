@@ -89,74 +89,61 @@ I design for **latency, stability, cost, observability, and trust** — the thin
 
 ## 🚀 Flagship Systems
 
-<table border="0" width="100%">
+<table border="0">
   <tr>
     <td width="50%" align="center">
-      <a href="#">
-        <img src="https://img.shields.io/badge/🏙️_SafeCity_AI-000000?style=for-the-badge&logo=google-lens&logoColor=00F2FF" alt="SafeCity AI">
-      </a>
-      <br>
-      <b>Real-Time Urban Incident Detection</b>
+      <h3>🏙️ SafeCity AI</h3>
+      <p><i>Real-Time Urban Incident Detection</i></p>
+      <img src="https://img.shields.io/badge/Latency-150ms-success?style=for-the-badge&logo=speedtest" />
       <br><br>
-      <img src="https://img.shields.io/badge/Latency-150ms-success?style=flat-square&logo=speedtest&logoColor=white" />
-      <img src="https://img.shields.io/badge/Scale-4_Streams-blue?style=flat-square&logo=server&logoColor=white" />
+      <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
+      <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <br>
-      <p align="center">
-        Edge-optimized video pipeline processing multi-camera feeds for anomaly detection.
+      <p align="left">
+        Multi-stream video pipeline processing 4 streams at 30FPS on edge hardware. Handles stream failures gracefully.
       </p>
-      <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,fastapi&theme=dark&perline=4" width="140" />
     </td>
-
     <td width="50%" align="center">
-      <a href="#">
-        <img src="https://img.shields.io/badge/👁️_MedVision_AI-000000?style=for-the-badge&logo=medical-icon&logoColor=8A2BE2" alt="MedVision AI">
-      </a>
-      <br>
-      <b>Explainable Medical Imaging</b>
+      <h3>👁️ MedVision AI</h3>
+      <p><i>Explainable Medical Imaging</i></p>
+      <img src="https://img.shields.io/badge/Accuracy-95%25-blueviolet?style=for-the-badge&logo=pytorch" />
       <br><br>
-      <img src="https://img.shields.io/badge/Accuracy-95%25-blueviolet?style=flat-square&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/Trust-Grad--CAM-ff69b4?style=flat-square" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Grad_CAM-FF69B4?style=flat-square&logo=artstation&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <br>
-      <p align="center">
-        Disease classification system with heatmaps to show doctors <i>where</i> the model is looking.
+      <p align="left">
+        Classification system with built-in interpretability (Heatmaps). Designed for clinical trust and deployment.
       </p>
-      <img src="https://skillicons.dev/icons?i=pytorch,docker,aws,react&theme=dark&perline=4" width="140" />
     </td>
   </tr>
-  
   <tr>
     <td width="50%" align="center">
-      <br>
-      <a href="#">
-        <img src="https://img.shields.io/badge/🤖_IntelliBot_PRO+-000000?style=for-the-badge&logo=openai&logoColor=00F2FF" alt="IntelliBot">
-      </a>
-      <br>
-      <b>Hybrid NLP + LLM Router</b>
+      <h3>🤖 IntelliBot PRO+</h3>
+      <p><i>Hybrid NLP + LLM Router</i></p>
+      <img src="https://img.shields.io/badge/Cost_Saved-40%25-green?style=for-the-badge&logo=money" />
       <br><br>
-      <img src="https://img.shields.io/badge/Cost_Saved-40%25-green?style=flat-square&logo=cashapp&logoColor=white" />
-      <img src="https://img.shields.io/badge/Logic-LangChain-1C3C3C?style=flat-square" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
       <br>
-      <p align="center">
-        Smart routing system using classical NLP for speed and LLMs only for complex reasoning.
+      <p align="left">
+        Smart routing system that uses classical NLP for cheap queries and LLMs only for complex reasoning.
       </p>
-      <img src="https://skillicons.dev/icons?i=python,flask,scikitlearn,postman&theme=dark&perline=4" width="140" />
     </td>
-
     <td width="50%" align="center">
-      <br>
-      <a href="#">
-        <img src="https://img.shields.io/badge/🌾_Smart_Crop-000000?style=for-the-badge&logo=raspberry-pi&logoColor=e30b5d" alt="Smart Crop">
-      </a>
-      <br>
-      <b>Vision + IoT for Agriculture</b>
+      <h3>🌾 Smart Crop Monitor</h3>
+      <p><i>Vision + IoT for Agriculture</i></p>
+      <img src="https://img.shields.io/badge/Hardware-Rpi_4-red?style=for-the-badge&logo=raspberry-pi" />
       <br><br>
-      <img src="https://img.shields.io/badge/Hardware-Rpi_4-red?style=flat-square&logo=raspberry-pi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tech-Edge_AI-orange?style=flat-square" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/IoT-MQTT-important?style=flat-square&logo=mqtt&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <br>
-      <p align="center">
-        Offline-capable pest detection running on edge devices with real-time dashboards.
+      <p align="left">
+        Offline-capable pest detection system running on Raspberry Pi with a React dashboard for farmers.
       </p>
-      <img src="https://skillicons.dev/icons?i=js,react,nodejs,arduino&theme=dark&perline=4" width="140" />
     </td>
   </tr>
 </table>
