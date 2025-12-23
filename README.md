@@ -1,10 +1,9 @@
-<!-- ======================= HERO ======================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=0,2,25,30&text=Vikas%20Saini&fontSize=76&fontColor=00F2FF&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Systems%20Builder&descAlignY=58&descSize=22" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=0,2,25,30&text=Vikas%20Saini&fontSize=74&fontColor=00F2FF&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Systems%20Builder&descAlignY=56&descSize=22" width="100%" />
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=800&color=00F2FF&center=true&vCenter=true&width=980&lines=I+build+AI+systems+that+survive+production.;Computer+Vision+%7C+NLP+%7C+MLOps;YOLOv8+%7C+LLMs+%7C+FastAPI+%7C+Docker;From+raw+data+to+real-world+impact.;Open+to+Global+Opportunities+🌍" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=800&color=00F2FF&center=true&vCenter=true&width=980&lines=I+design+AI+systems+that+survive+the+real+world.;Computer+Vision+%7C+NLP+%7C+MLOps+Engineering;From+dataset+chaos+to+production+stability.;Latency%2C+scale%2C+explainability+matter.;Open+to+global+AI+roles." />
 </h3>
 
 <p align="center">
@@ -21,160 +20,183 @@
 
 ---
 
-## 🧬 Who I Am (In One Screen)
+## 🧭 Who I Am (In One Minute)
 
-I’m a **Machine Learning Engineer** who focuses on **engineering AI systems that actually work in the real world**.
+I’m a **Machine Learning Engineer** who builds **AI systems that work outside notebooks**.
 
-Not just notebooks.  
-Not just accuracy.  
-But **latency, reliability, explainability, and scale**.
+I don’t optimize for Kaggle scores.  
+I optimize for **latency, stability, cost, and trust** — the things that decide whether AI survives in production.
 
-- ⚡ Real-time & edge-ready ML systems  
-- 🧠 Deep focus on **Computer Vision + NLP**  
-- ⚙️ Strong production stack: **FastAPI, Docker, AWS**  
-- 🌍 Open to global ML / AI roles  
+I’ve engineered systems across:
+- 🎥 Real-time computer vision
+- 🧠 Hybrid NLP + LLM architectures
+- ⚙️ Scalable ML backends
+- 📱 AI-integrated applications
 
-> *Models impress in demos. Systems matter in production.*
+> *A model is a hypothesis.  
+> A system is a commitment.*
 
 ---
 
-## 🧠 Technical Arsenal
+## 🧠 Engineering Capabilities (Signal > Buzzwords)
 
-### 🤖 Machine Learning & Vision
+### ⚡ Real-Time AI Systems
+I design systems where **milliseconds matter**.
+
+**What I Actually Do**
+- Multi-stream video inference
+- Model → ONNX → TensorRT optimization
+- Memory & throughput tuning
+- Failure-aware pipelines
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,scikitlearn&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,onnx,tensorflow&perline=5" />
 </div>
 
-**What I actually do here**
-- YOLOv8 detection pipelines  
-- Real-time inference (CPU / GPU / Edge)  
-- Explainability with **Grad-CAM**  
-- Optimization using **ONNX & TensorRT**
-
 ---
 
-### 🧩 NLP & LLM Engineering
-- Classical NLP: **TF-IDF, Logistic Regression**
-- Text pipelines: tokenization, lemmatization, vectorization
-- **Hybrid systems** → rules + ML + LLMs
-- Hugging Face, LangChain, OpenAI APIs
+### 👁️ Computer Vision Engineering
+I treat vision as a **systems problem**, not just detection.
 
----
+**Capabilities**
+- YOLOv8 (detection, tracking, pose)
+- Grad-CAM explainability
+- Dataset bias analysis
+- Edge & cloud trade-offs
 
-### ⚙️ Backend, MLOps & Deployment
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,aws,linux,git&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch&perline=3" />
 </div>
 
-- FastAPI-based inference services  
-- Dockerized ML systems  
-- AWS EC2 deployment  
-- CI/CD, monitoring & versioning  
-
 ---
 
-### 📱 Mobile & Visualization
+### 🧩 NLP & LLM Architecture
+I build **cost-aware, controllable AI**, not prompt spam.
+
+**Capabilities**
+- Classical NLP baselines
+- Transformer pipelines
+- Hybrid NLP + LLM systems
+- Evaluation & guardrails
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=swift,react,js,html,css&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python&perline=1" />
 </div>
 
-- iOS apps (UIKit, Core Data)  
-- React dashboards for ML outputs  
+---
+
+### ⚙️ ML Backend & MLOps
+If it can’t deploy, it doesn’t count.
+
+**Capabilities**
+- FastAPI inference services
+- Dockerized pipelines
+- AWS EC2 deployment
+- CI/CD & monitoring
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,aws,linux,git&perline=5" />
+</div>
 
 ---
 
-## 🚀 Flagship Work
+### 📱 Product-Level AI
+AI is only useful when users touch it.
 
-### 🏙️ **SafeCity AI** — Real-Time Accident & Violence Detection
-**YOLOv8 · ONNX · TensorRT · FastAPI · Docker**
-
-- ~95% event-level accuracy  
-- **30+ FPS** optimized inference  
-- Multi-camera backend with **<200ms latency**  
-
-> Demonstrates real-time AI, optimization, and system design.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=swift,react,js&perline=3" />
+</div>
 
 ---
 
-### 👁️ **MedVision AI** — Explainable Medical Imaging
-**PyTorch · TensorFlow · Grad-CAM**
+## 🚀 Selected Systems (Not “Projects”)
 
-- 92–95% diagnostic accuracy  
-- Explainability-first pipeline for trust & transparency  
+### 🏙️ SafeCity AI — Real-Time Urban Incident Detection
+**Role:** ML Engineer & System Architect  
+**Stack:** YOLOv8 · ONNX · TensorRT · FastAPI · Docker
 
----
+**The Constraint**
+High-volume video streams. Low tolerance for delay. Zero room for false alerts.
 
-### 🤖 **IntelliBot PRO+** — Hybrid AI Assistant
-**Flask · Scikit-learn · LLMs · AWS**
+**The System**
+- Real-time accident & violence detection
+- 30+ FPS inference
+- Sub-200ms end-to-end latency
+- Multi-camera orchestration
 
-- Hybrid NLP + LLM architecture  
-- ~92% intent accuracy  
-- Secure multi-user EC2 deployment  
-
----
-
-### 🌾 **Smart Crop Monitor** — AI + IoT
-**YOLOv8 · Raspberry Pi · React**
-
-- Pest & disease detection (90%+)  
-- IoT-driven real-time alerts  
+**Why This Matters**
+This system proves I can **engineer AI under pressure**, not just train models.
 
 ---
 
-### 📱 **iOS Fitness App**
-**Swift · UIKit · Core Data**
+### 👁️ MedVision AI — Explainable Medical Imaging
+**Stack:** PyTorch · TensorFlow · Grad-CAM
 
-- Native workout tracking  
-- 40% faster data retrieval  
+**The Constraint**
+Accuracy alone is useless without trust.
 
----
-
-## 💼 Experience
-
-### Freelance Machine Learning Engineer — **Outlier.AI**
-**Nov 2024 – Jan 2025**
-- Improved NLP evaluation accuracy by **15%**
-- Large-scale dataset processing (50k+ tokens)
-- Built automated data-quality pipelines
-
-### C++ Intern — **Techvanto Academy**
-**Jul 2024 – Aug 2024**
-- OOP, DSA, file-handling systems
-- Solved **50+ real-world problems**
+**The System**
+- Medical image classifier (92–95%)
+- Explainability-first architecture
+- Clinical interpretability via Grad-CAM
 
 ---
 
-## 🎓 Education & Certifications
-- **B.Tech — Computer Science & Engineering**  
-  Lovely Professional University (2022–2026)
+### 🤖 IntelliBot PRO+ — Hybrid NLP + LLM System
+**Stack:** Flask · Scikit-learn · LLM APIs · AWS
 
-- **Oracle Cloud Infrastructure**
-  - Generative AI Professional (2025)
-  - Data Science Professional (2025)
+**The Constraint**
+LLMs are powerful but expensive and unpredictable.
 
----
-
-## 🏆 Highlights
-- Top 10 / 300 — GLA University Chess Competition  
-- AWS & VCT AI Chatbot Hackathon  
-- IIT Indore Hackathon — Healthcare System  
+**The System**
+- Classical NLP for routing
+- LLMs only when necessary
+- ~92% intent accuracy
+- Cost-efficient deployment
 
 ---
 
-## 🔬 Currently Pushing
+### 🌾 Smart Crop Monitor — Vision + IoT
+**Stack:** YOLOv8 · Raspberry Pi · React
+
+**The System**
+- Pest & disease detection
+- Sensor-driven alerts
+- Real-world agricultural impact
+
+---
+
+### 📱 iOS Fitness App — AI-Ready Mobile Platform
+**Stack:** Swift · UIKit · Core Data
+
+- Optimized data access (40% faster)
+- Designed as a foundation for ML-driven insights
+
+---
+
+## 🧪 Design Philosophy
+
+- Accuracy is **table stakes**
+- Latency is **non-negotiable**
+- Explainability builds **trust**
+- Systems fail — **engineers plan for it**
+
+---
+
+## 🔬 What I’m Currently Exploring
 - Edge AI (ONNX → TensorRT)
-- Vision + LLM hybrid systems
-- Advanced MLOps pipelines
 - Large-scale dataset evaluation
+- Vision + LLM hybrid reasoning
+- Production MLOps patterns
 
 ---
 
-## 🎯 Open To
+## 🎯 Roles I’m Optimized For
 - Machine Learning Engineer  
 - Computer Vision Engineer  
 - Applied AI Engineer  
 
-📍 Remote | Hybrid | Relocation
+🌍 Open to global & remote roles
 
 ---
 
@@ -189,8 +211,9 @@ But **latency, reliability, explainability, and scale**.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikassaini77&bg_color=141321&color=00F2FF&line=fe428e&point=FFFFFF&hide_border=true" width="100%" />
 </div>
 
-<!-- ======================= FOOTER ======================= -->
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=gradient&customColorList=30,25,2,0" width="100%" />
-  <p><i>“Extraordinary AI is not about complexity — it’s about reliability.”</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=30,25,2,0" width="100%" />
+  <p><i>"Models impress. Systems endure."</i></p>
 </div>
