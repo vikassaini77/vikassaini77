@@ -38,139 +38,152 @@ I’ve engineered systems across:
 
 ---
 
-## 🧠 Engineering Capabilities (Signal > Buzzwords)
+## 🧠 Engineering Capabilities  
+> **Signal > Buzzwords | Systems > Demos**
 
-### ⚡ Real-Time AI Systems
-I design systems where **milliseconds matter**.
+---
 
-**What I Actually Do**
-- Multi-stream video inference
-- Model → ONNX → TensorRT optimization
-- Memory & throughput tuning
-- Failure-aware pipelines
+### ⚡ Real-Time AI Systems  
+**Where milliseconds matter and failure is not an option.**
 
-<div align="center">
+**What I Engineer**
+- Multi-stream video inference pipelines  
+- Model optimization: **PyTorch → ONNX → TensorRT**  
+- Memory, latency & throughput tuning  
+- Failure-aware and restart-safe systems  
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,onnx,tensorflow&perline=5" />
-</div>
+</p>
 
 ---
 
-### 👁️ Computer Vision Engineering
-I treat vision as a **systems problem**, not just detection.
+### 👁️ Computer Vision Engineering  
+**Vision as a system — not just bounding boxes.**
 
 **Capabilities**
-- YOLOv8 (detection, tracking, pose)
-- Grad-CAM explainability
-- Dataset bias analysis
-- Edge & cloud trade-offs
+- YOLOv8 (detection · tracking · pose)  
+- Explainability with **Grad-CAM**  
+- Dataset bias & failure-case analysis  
+- Edge vs Cloud performance trade-offs  
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,opencv,pytorch&perline=3" />
-</div>
+</p>
 
 ---
 
-### 🧩 NLP & LLM Architecture
-I build **cost-aware, controllable AI**, not prompt spam.
+### 🧩 NLP & LLM Architecture  
+**Cost-aware, controllable AI — not prompt spam.**
 
 **Capabilities**
-- Classical NLP baselines
-- Transformer pipelines
-- Hybrid NLP + LLM systems
-- Evaluation & guardrails
+- Classical NLP baselines (fast & cheap)  
+- Transformer-based pipelines  
+- Hybrid NLP + LLM routing systems  
+- Evaluation, guardrails & fallback logic  
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python&perline=1" />
-</div>
+</p>
 
 ---
 
-### ⚙️ ML Backend & MLOps
-If it can’t deploy, it doesn’t count.
+### ⚙️ ML Backend & MLOps  
+**If it can’t deploy, it doesn’t count.**
 
 **Capabilities**
-- FastAPI inference services
-- Dockerized pipelines
-- AWS EC2 deployment
-- CI/CD & monitoring
+- FastAPI inference services  
+- Dockerized ML pipelines  
+- AWS EC2 deployment  
+- CI/CD, logging & monitoring  
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,docker,aws,linux,git&perline=5" />
-</div>
+</p>
 
 ---
 
-### 📱 Product-Level AI
-AI is only useful when users touch it.
+### 📱 Product-Level AI  
+**AI only matters when users can touch it.**
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=swift,react,js&perline=3" />
-</div>
+</p>
+
+- iOS & web interfaces for ML systems  
+- Dashboards, controls & feedback loops  
 
 ---
 
-## 🚀 Selected Systems (Not “Projects”)
+## 🚀 Selected Systems  
+> **Not “projects” — engineered systems with constraints.**
 
-### 🏙️ SafeCity AI — Real-Time Urban Incident Detection
+---
+
+### 🏙️ SafeCity AI — Real-Time Urban Incident Detection  
 **Role:** ML Engineer & System Architect  
-**Stack:** YOLOv8 · ONNX · TensorRT · FastAPI · Docker
+**Stack:** YOLOv8 · ONNX · TensorRT · FastAPI · Docker  
 
-**The Constraint**
-High-volume video streams. Low tolerance for delay. Zero room for false alerts.
+**Constraint**  
+High-volume video streams.  
+Low tolerance for delay.  
+Zero room for false alerts.
 
-**The System**
-- Real-time accident & violence detection
-- 30+ FPS inference
-- Sub-200ms end-to-end latency
-- Multi-camera orchestration
+**System Highlights**
+- Real-time accident & violence detection  
+- **30+ FPS** sustained inference  
+- **<200 ms** end-to-end latency  
+- Multi-camera orchestration  
 
-**Why This Matters**
-This system proves I can **engineer AI under pressure**, not just train models.
-
----
-
-### 👁️ MedVision AI — Explainable Medical Imaging
-**Stack:** PyTorch · TensorFlow · Grad-CAM
-
-**The Constraint**
-Accuracy alone is useless without trust.
-
-**The System**
-- Medical image classifier (92–95%)
-- Explainability-first architecture
-- Clinical interpretability via Grad-CAM
+**Why It Matters**  
+This system proves I can **engineer AI under pressure**,  
+not just train models in isolation.
 
 ---
 
-### 🤖 IntelliBot PRO+ — Hybrid NLP + LLM System
-**Stack:** Flask · Scikit-learn · LLM APIs · AWS
+### 👁️ MedVision AI — Explainable Medical Imaging  
+**Stack:** PyTorch · TensorFlow · Grad-CAM  
 
-**The Constraint**
-LLMs are powerful but expensive and unpredictable.
+**Constraint**  
+Accuracy without trust is unusable in healthcare.
 
-**The System**
-- Classical NLP for routing
-- LLMs only when necessary
-- ~92% intent accuracy
-- Cost-efficient deployment
-
----
-
-### 🌾 Smart Crop Monitor — Vision + IoT
-**Stack:** YOLOv8 · Raspberry Pi · React
-
-**The System**
-- Pest & disease detection
-- Sensor-driven alerts
-- Real-world agricultural impact
+**System Highlights**
+- Medical image classifier (**92–95% accuracy**)  
+- Explainability-first architecture  
+- Visual clinical reasoning via Grad-CAM  
 
 ---
 
-### 📱 iOS Fitness App — AI-Ready Mobile Platform
-**Stack:** Swift · UIKit · Core Data
+### 🤖 IntelliBot PRO+ — Hybrid NLP + LLM System  
+**Stack:** Flask · Scikit-learn · LLM APIs · AWS  
 
-- Optimized data access (40% faster)
-- Designed as a foundation for ML-driven insights
+**Constraint**  
+LLMs are powerful, but expensive and unpredictable.
+
+**System Highlights**
+- Classical NLP for intent routing  
+- LLMs only when necessary  
+- **~92% intent accuracy**  
+- Cost-efficient, scalable deployment  
+
+---
+
+### 🌾 Smart Crop Monitor — Vision + IoT  
+**Stack:** YOLOv8 · Raspberry Pi · React  
+
+**System Highlights**
+- Pest & disease detection  
+- Sensor-driven real-time alerts  
+- Designed for real agricultural environments  
+
+---
+
+### 📱 iOS Fitness App — AI-Ready Mobile Platform  
+**Stack:** Swift · UIKit · Core Data  
+
+**System Highlights**
+- Optimized data access (**40% faster**)  
+- Built as a foundation for future ML insights  
 
 ---
 
