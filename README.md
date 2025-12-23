@@ -1,101 +1,107 @@
-<p align="center">
-  <a href="https://github.com/vikassaini77">
-    <img src="https://raw.githubusercontent.com/vikassaini77/ValoBot/main/assets/banner.gif" alt="Vikas Saini - AI Engineer Banner" width="100%"/>
-  </a>
-</p>
+# 👋 Hi, I’m Vikas Saini  
+### Machine Learning Engineer | Computer Vision • LLMs • Applied AI
 
-<h1 align="center">✨ Hey, I'm <a href="https://github.com/vikassaini77">Vikas Saini</a> 👋</h1>
-<h3 align="center">🚀 Machine Learning Engineer | 💻 iOS Developer | 🔥 AI Innovator</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=00F7F7&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+That+Think.;Designing+Apps+That+Feel+Human.;Merging+AI+%2B+iOS+for+Next+Gen+Experiences.">
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vikas-saini1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vikassn44@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=vikassaini77">
-    <img src="https://komarev.com/ghpvc/?username=vikassaini77&style=for-the-badge&color=brightgreen" />
-  </a>
-</p>
+> “I don’t build demo projects. I build systems that survive real-world chaos.”
 
 ---
 
-### 🧠 About Me
-A **Machine Learning Engineer** who builds smart systems that actually *do something useful* — not just look cool.  
-Also dabbling in **iOS Development**, blending **AI + design** to make tech feel more personal.  
+## 🧠 About Me
 
-- 🌍 Currently working on **ValoBot (AI Assistant)** & **Smart Fitness iOS App**
-- 🧩 Exploring **MLOps, Cloud Deployments, and Model Optimization**
-- ⚡ Quick debug therapy: **coffee + lo-fi beats**
-- 💬 Let’s chat about **Deep Learning • Swift • FastAPI • Vision AI**
+I’m a final-year Computer Science student with a deep obsession for **Machine Learning that actually works in production**.  
+Not toy notebooks. Not copy-paste Kaggle stuff.  
+I focus on **end-to-end AI systems** — from data → model → explainability → deployment.
 
----
-
-### 🚀 Tech Stack
-<p align="center">
-  <!-- Core -->
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- iOS -->
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/HealthKit-FF2D55?style=for-the-badge&logo=apple&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- DevOps -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+I believe in old-school fundamentals (math, logic, discipline) mixed with modern tools (PyTorch, FastAPI, LLMs).  
+The goal? **Build AI that people can trust.**
 
 ---
 
-### 💼 Featured Projects
-| 💡 Project | 🔍 Description | 🧰 Tech Stack |
-|-------------|----------------|----------------|
-| [**ValoBot 🤖**](https://github.com/vikassaini77/ValoBot) | AI assistant with voice, NLP, and image understanding | Python, FastAPI, PyTorch, OpenAI |
-| [**Smart Fitness App 💪**](https://github.com/vikassaini77/Fitness-App-iOS) | iOS fitness tracker using HealthKit and CoreMotion | Swift, UIKit, HealthKit |
-| [**Smart Crop Monitor 🌾**](https://github.com/vikassaini77/Smart-Crop-Monitor) | ML-based crop pest detection dashboard | React, Flask, OpenCV |
+## 🚀 What I’m Currently Building
+
+### 🩺 **MedVision AI** — Medical Image Intelligence (XAI)
+- Chest X-ray classification using **ResNet50**
+- Achieved **92–95% accuracy**
+- Integrated **Grad-CAM** for explainability (because black-box models don’t belong in healthcare)
+- Deployed with **FastAPI** for real-time inference  
+📌 *Designed for high-stakes, regulated ML environments*
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikassaini77&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikassaini77&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassaini77&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 🧠 **IntelliBot PRO+** — Advanced AI Assistant Platform
+- Intent classification + PDF Q&A
+- LLM-powered responses (OpenAI + Gemini)
+- Secure API handling with `.env`
+- Custom frontend (not Streamlit) with animations, themes & avatars
+- Built to scale, not just impress  
+📌 *Shows real-world NLP + system design skills*
 
 ---
 
-### 🧩 Fun Add-On
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikassaini77&theme=onestar&no-bg=true&no-frame=true&margin-w=10" />
-</p>
+### 🚨 **SafeCity AI** — Intelligent Surveillance & Event Detection
+- Detects **accidents, violence & anomalies**
+- Computer Vision–driven event pipeline
+- Structured logging & dashboard-ready outputs
+- Designed for **smart cities & public safety use-cases**  
+📌 *Not just detection — actionable intelligence*
 
 ---
 
-<p align="center">
-  <i>“The goal is simple — make machines think and make interfaces feel.”</i>
-</p>
+## 🛠️ Tech Stack (Battle-Tested)
+
+**Languages**  
+- Python • C++ • Swift
+
+**ML / AI**  
+- PyTorch • TensorFlow • YOLOv8  
+- Scikit-learn • Hugging Face  
+- Grad-CAM • Transfer Learning
+
+**Backend & APIs**  
+- FastAPI • Flask  
+- REST APIs • Model Serving
+
+**MLOps & Tools**  
+- Git • Docker (learning)  
+- Environment-based config (`.env`)  
+- Logging & evaluation pipelines
+
+---
+
+## 📊 What Makes My Work Different
+
+✅ Production mindset (not notebook-only)  
+✅ Explainability > blind accuracy  
+✅ Clean project structure  
+✅ Real-world problem selection  
+✅ Focus on **impact, not hype**
+
+Most people learn models.  
+I learn **systems**.
+
+---
+
+## 🎯 Career Focus
+
+I’m actively looking for roles in:
+- **Machine Learning Engineer**
+- **Computer Vision Engineer**
+- **Applied AI / Research Engineer (Entry-Level)**
+
+I’m especially interested in teams solving **real problems** — healthcare, safety, automation, intelligent systems.
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 LinkedIn: *(add your link here)*
+- 📧 Email: *(add your email here)*
+- 🌍 Open to internships, full-time roles & serious collaborations
+
+---
+
+### ⚡ Fun Fact
+
+I’d rather spend 10 hours fixing one real bug  
+than spend 10 minutes flexing fake metrics.
+
+If you’re here, you’re probably building something real too 🤝
