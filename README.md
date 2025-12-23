@@ -89,40 +89,64 @@ I design for **latency, stability, cost, observability, and trust** — the thin
 
 ## 🚀 Flagship Systems
 
-### 🏙️ SafeCity AI — Real-Time Urban Incident Detection
-**YOLOv8 · ONNX · TensorRT · FastAPI · Docker**
-
-- Multi-camera real-time inference
-- Sub-200ms latency
-- Edge-optimized deployment
-
----
-
-### 👁️ MedVision AI — Explainable Medical Imaging
-**PyTorch · TensorFlow · Grad-CAM**
-
-- 92–95% accuracy
-- Explainability-first design
-- Built for clinical trust
-
----
-
-### 🤖 IntelliBot PRO+ — Hybrid NLP + LLM System
-**Flask · Scikit-learn · LLM APIs · AWS**
-
-- Intent routing with classical NLP
-- Cost-optimized LLM usage
-- ~92% intent accuracy
-
----
-
-### 🌾 Smart Crop Monitor — Vision + IoT
-**YOLOv8 · Raspberry Pi · React**
-
-- Pest & disease detection
-- Sensor-driven alerts
-- Designed for real farms
-
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <h3>🏙️ SafeCity AI</h3>
+      <p><i>Real-Time Urban Incident Detection</i></p>
+      <img src="https://img.shields.io/badge/Latency-150ms-success?style=for-the-badge&logo=speedtest" />
+      <br><br>
+      <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
+      <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <br>
+      <p align="left">
+        Multi-stream video pipeline processing 4 streams at 30FPS on edge hardware. Handles stream failures gracefully.
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <h3>👁️ MedVision AI</h3>
+      <p><i>Explainable Medical Imaging</i></p>
+      <img src="https://img.shields.io/badge/Accuracy-95%25-blueviolet?style=for-the-badge&logo=pytorch" />
+      <br><br>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Grad_CAM-FF69B4?style=flat-square&logo=artstation&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <br>
+      <p align="left">
+        Classification system with built-in interpretability (Heatmaps). Designed for clinical trust and deployment.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🤖 IntelliBot PRO+</h3>
+      <p><i>Hybrid NLP + LLM Router</i></p>
+      <img src="https://img.shields.io/badge/Cost_Saved-40%25-green?style=for-the-badge&logo=money" />
+      <br><br>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <br>
+      <p align="left">
+        Smart routing system that uses classical NLP for cheap queries and LLMs only for complex reasoning.
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <h3>🌾 Smart Crop Monitor</h3>
+      <p><i>Vision + IoT for Agriculture</i></p>
+      <img src="https://img.shields.io/badge/Hardware-Rpi_4-red?style=for-the-badge&logo=raspberry-pi" />
+      <br><br>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/IoT-MQTT-important?style=flat-square&logo=mqtt&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <br>
+      <p align="left">
+        Offline-capable pest detection system running on Raspberry Pi with a React dashboard for farmers.
+      </p>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🧪 Engineering Philosophy
