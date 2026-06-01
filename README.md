@@ -119,16 +119,6 @@ Three principles I return to on every project:
 
 **Optimize what matters.** Latency, throughput, cost, and compute are engineering tradeoffs — not afterthoughts. I profile before I optimize, and I measure before I claim improvement.
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vikassaini77&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=Activity" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassaini77&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-</div>
 
 ---
 
