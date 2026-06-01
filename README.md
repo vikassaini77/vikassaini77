@@ -1,193 +1,154 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=gradient&customColorList=0,2,25,30&text=Vikas%20Saini&fontSize=78&fontColor=00F2FF&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Systems%20Builder&descAlignY=58&descSize=24" width="100%" />
-</div>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2600&pause=900&color=00F2FF&center=true&vCenter=true&width=1000&lines=I+engineer+AI+systems+that+survive+production.;Computer+Vision+%7C+NLP+%7C+MLOps.;Latency%2C+scale%2C+explainability+are+non-negotiable.;From+dataset+chaos+to+production+stability.;Open+to+global+AI+roles." alt="Typing SVG" />
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,50:0F2027,100:1a1a2e&text=Vikas%20Saini&fontSize=72&fontColor=58A6FF&animation=fadeIn&fontAlignY=40&desc=Machine%20Learning%20Engineer%20%E2%80%94%20AI%20Systems%20Architect&descAlignY=60&descSize=20&descColor=8B949E" width="100%" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vikas-saini1">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vikassn44@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/vikassaini77">
-    <img src="https://img.shields.io/github/followers/vikassaini77?label=Followers&style=for-the-badge&logo=github&color=2ea44f" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=vikassaini77&style=for-the-badge&color=00F2FF" alt="Profile Views" />
-</p>
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikas%20Saini-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-saini1)
+[![Email](https://img.shields.io/badge/Email-vikassn44%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vikassn44@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/vikassaini77?label=Follow&style=flat-square&logo=github&color=238636)](https://github.com/vikassaini77)
+![Profile Views](https://komarev.com/ghpvc/?username=vikassaini77&style=flat-square&color=58A6FF&label=Views)
 
-## 🧭 Who I Am (Quick Scroll, Big Signal)
-
-I’m a **Machine Learning Engineer** focused on building **AI systems that work outside notebooks**.
-
-I don’t chase leaderboard scores.
-I design for **latency, stability, cost, observability, and trust** — the things that decide whether AI *actually ships*.
-
-> **Models impress. Systems endure.**
-
----
-
-## 🧠 Core Engineering Domains
-
-### ⚡ Real-Time AI Systems
-<p align="center">
-  <img src="https://img.shields.io/badge/Latency-Sub_200ms-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Throughput-30%2B_FPS-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Production_AI-00F2FF?style=for-the-badge"/>
-</p>
-
-- Multi-stream video inference pipelines
-- PyTorch → ONNX → TensorRT optimization
-- Failure-aware & restart-safe architectures
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,onnx,tensorflow&perline=5" />
-</p>
-
----
-
-### 👁️ Computer Vision Engineering
-- YOLOv8 (Detection · Tracking · Pose)
-- Explainability via Grad-CAM
-- Dataset bias & failure-case analysis
-- Edge vs Cloud trade-off engineering
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch&perline=3" />
-</p>
-
----
-
-### 🧩 NLP & LLM Systems
-<p align="center">
-  <img src="https://img.shields.io/badge/Architecture-Hybrid_NLP_+_LLMs-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLM_Usage-On_Demand-yellow?style=for-the-badge"/>
-</p>
-
-- Classical NLP for speed & cost
-- LLMs only when necessary
-- Routing, evaluation, guardrails & fallbacks
-
----
-
-### ⚙️ ML Backend & MLOps
-- FastAPI inference services
-- Dockerized ML pipelines
-- AWS EC2 deployments
-- CI/CD, logging & monitoring
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,aws,linux,git&perline=5" />
-</p>
-
----
-
-## 🚀 Flagship Systems
-
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <h3>🏙️ SafeCity AI</h3>
-      <p><i>Real-Time Urban Incident Detection</i></p>
-      <img src="https://img.shields.io/badge/Latency-150ms-success?style=for-the-badge&logo=speedtest" />
-      <br><br>
-      <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
-      <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <br>
-      <p align="left">
-        Multi-stream video pipeline processing 4 streams at 30FPS on edge hardware. Handles stream failures gracefully.
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <h3>👁️ MedVision AI</h3>
-      <p><i>Explainable Medical Imaging</i></p>
-      <img src="https://img.shields.io/badge/Accuracy-95%25-blueviolet?style=for-the-badge&logo=pytorch" />
-      <br><br>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/Grad_CAM-FF69B4?style=flat-square&logo=artstation&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <br>
-      <p align="left">
-        Classification system with built-in interpretability (Heatmaps). Designed for clinical trust and deployment.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🤖 IntelliBot PRO+</h3>
-      <p><i>Hybrid NLP + LLM Router</i></p>
-      <img src="https://img.shields.io/badge/Cost_Saved-40%25-green?style=for-the-badge&logo=money" />
-      <br><br>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-      <br>
-      <p align="left">
-        Smart routing system that uses classical NLP for cheap queries and LLMs only for complex reasoning.
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <h3>🌾 Smart Crop Monitor</h3>
-      <p><i>Vision + IoT for Agriculture</i></p>
-      <img src="https://img.shields.io/badge/Hardware-Rpi_4-red?style=for-the-badge&logo=raspberry-pi" />
-      <br><br>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/IoT-MQTT-important?style=flat-square&logo=mqtt&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <br>
-      <p align="left">
-        Offline-capable pest detection system running on Raspberry Pi with a React dashboard for farmers.
-      </p>
-    </td>
-  </tr>
-</table>
----
-
-## 🧪 Engineering Philosophy
-<p align="center">
-  <img src="https://img.shields.io/badge/Accuracy-Is_Just_The_Entry-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Latency-Non_Negotiable-critical?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Explainability-Builds_Trust-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Failure-Is_Engineered_For-orange?style=for-the-badge"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikassaini77&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vikassaini77&theme=radical&hide_border=true" width="48%"/>
-</div>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikassaini77&bg_color=141321&color=00F2FF&line=fe428e&point=FFFFFF&hide_border=true" width="100%" />
 </div>
 
 ---
 
+## About
+
+I'm a **Machine Learning Engineer** who builds AI systems designed to survive production — not just pass benchmarks.
+
+My focus is on the gap between *working in notebooks* and *working at scale*: latency constraints, infrastructure reliability, observability, cost efficiency, and the kind of engineering rigor that lets models actually ship. I work across Computer Vision, NLP, and MLOps, with a bias toward systems that are fast, explainable, and maintainable by teams — not just their authors.
+
+> *Models impress. Systems endure.*
+
+---
+
+## Core Competencies
+
+### Real-Time AI Systems
+Multi-stream video inference · PyTorch → ONNX → TensorRT optimization · Sub-200ms latency pipelines · Failure-aware architectures with automatic restart and graceful degradation
+
+### Computer Vision
+Object detection and tracking (YOLOv8, RT-DETR) · Semantic & instance segmentation · Pose estimation · OCR pipelines · Video understanding at 30+ FPS
+
+### Natural Language Processing
+LLM fine-tuning (LoRA / QLoRA) · Retrieval-Augmented Generation (RAG) · Named Entity Recognition · Semantic search · Multi-turn dialogue systems
+
+### MLOps & Infrastructure
+MLflow · Kubeflow · DVC · Triton Inference Server · Docker · FastAPI · Model versioning, A/B testing, drift monitoring, and observability dashboards
+
+---
+
+## Technical Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**ML / DL Frameworks**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Infrastructure & Deployment**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![NVIDIA Triton](https://img.shields.io/badge/Triton-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
+
+**Cloud & Data**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+---
+
+## Selected Projects
+
+### 🔍 Real-Time Multi-Stream Surveillance Pipeline
+End-to-end video intelligence system processing 8+ concurrent streams at 30+ FPS. Custom TensorRT INT8 quantization reduced GPU memory footprint by 40% with <2% accuracy trade-off. Built with failure-aware process management and automatic stream recovery.
+
+`PyTorch` `TensorRT` `ONNX` `OpenCV` `FastAPI` `Redis` `Docker`
+
+---
+
+### 💬 Production RAG System for Enterprise Knowledge Retrieval
+Retrieval-Augmented Generation pipeline handling 10K+ daily queries with sub-300ms P95 latency. Fine-tuned embedding model on domain corpus; implemented hybrid dense-sparse retrieval (FAISS + BM25) with query rewriting and multi-hop reasoning.
+
+`LangChain` `FAISS` `HuggingFace` `FastAPI` `PostgreSQL` `MLflow`
+
+---
+
+### 🏷️ Document Intelligence Pipeline (OCR + NER)
+End-to-end document parsing system for structured and semi-structured documents. Custom NER model achieving 94.2 F1 on financial documents. Processes 500+ documents per minute via async batching with confidence-based human-in-the-loop escalation.
+
+`PaddleOCR` `spaCy` `Transformers` `Celery` `PostgreSQL` `Docker`
+
+---
+
+### ⚡ Model Serving Infrastructure with A/B Testing
+Triton-based serving infrastructure supporting shadow deployments and traffic splitting for safe model rollouts. Integrated drift detection, automated rollback triggers, and Grafana dashboards for real-time monitoring.
+
+`NVIDIA Triton` `Prometheus` `Grafana` `Kubernetes` `MLflow` `DVC`
+
+---
+
+## Engineering Philosophy
+
+```
+Production ≠ Jupyter.   Accuracy ≠ Value.   Fast ≠ Fragile.
+```
+
+Three principles I return to on every project:
+
+**Observability first.** A model you can't monitor is a model you can't trust. Every system I build includes metrics, logging, alerting, and dashboards before it ships — not after something breaks.
+
+**Design for failure.** Networks partition. GPUs OOM. Upstream APIs timeout. I architect for graceful degradation rather than assuming the happy path holds.
+
+**Optimize what matters.** Latency, throughput, cost, and compute are engineering tradeoffs — not afterthoughts. I profile before I optimize, and I measure before I claim improvement.
+
+---
+
+## GitHub Stats
+
 <div align="center">
-  <h3>🏆 Achievements</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vikassaini77&theme=radical&column=7" alt="Trophies" />
-  </a>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=vikassaini77&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=Activity" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassaini77&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
 </div>
 
 ---
-## 🐍 Contribution Flow
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+
+## Currently
+
+- 🔬 Researching efficient multi-modal architectures for edge deployment
+- 📦 Building reusable MLOps primitives for small-to-mid-scale teams
+- 🌍 Open to global AI engineering roles — remote or relocation
+
+---
+
+## Let's Connect
+
+I'm interested in roles at the intersection of research and production — where the challenge is making capable models reliable, efficient, and actually useful. If that's what you're working on, I'd like to talk.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-saini1)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vikassn44@gmail.com)
+
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=30,25,2,0" width="100%" />
-  <p><i>"Models impress. Systems endure."</i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1a1a2e,100:0D1117&section=footer" width="100%" />
 </div>
