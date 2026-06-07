@@ -23,7 +23,13 @@
 ### Languages
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,postgres,bash,linux&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux&theme=dark" alt="Languages" />
+</div>
+
+### Frontend & Backend
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,spring,fastapi,flask,postgres,sqlite&theme=dark" alt="Frontend & Backend" />
 </div>
 
 ### ML & Computer Vision
@@ -39,11 +45,12 @@
 ### MLOps & Infrastructure
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,fastapi,flask,git&theme=dark" alt="MLOps" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,git&theme=dark" alt="MLOps" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX" />
   <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="TensorRT" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
 </div>
 
 ---
