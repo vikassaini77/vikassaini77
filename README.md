@@ -48,30 +48,71 @@
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
-<div align="center">
-
-| Project | Description | Tech |
-|:--------|:------------|:-----|
-| **SafeCity AI** | Real-time accident & violence detection CV pipeline (30+ FPS) | YOLOv8, ONNX/TensorRT, FastAPI, React |
-| **MedVision AI** | Chest X-ray diagnosis with 92-95% accuracy & Grad-CAM XAI | ResNet50, PyTorch, FastAPI |
-
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">SafeCity AI</h3>
+      <p align="center">Real-time accident & violence detection CV pipeline (30+ FPS)</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat-square&logo=YOLO&logoColor=black" alt="YOLOv8" />
+        <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">MedVision AI</h3>
+      <p align="center">Chest X-ray diagnosis with 92-95% accuracy & Grad-CAM XAI</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-ResNet50-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="ResNet50" />
+        <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Smart-Crop-Monitor</h3>
+      <p align="center">AI IoT pest detection platform with 92% accuracy</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat-square&logo=YOLO&logoColor=black" alt="YOLOv8" />
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Real-Time Event Processing</h3>
+      <p align="center">Microservices backend for high-throughput event streams via Kafka</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
+        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Experience & Education
+### 💼 Experience
 
-<div align="center">
-
-| Role / Degree | Organization | Duration |
-|:--------------|:-------------|:---------|
-| **Freelance ML Engineer** | Outlier.AI | Nov 2024 - Jan 2025 |
-| **C++ Intern** | TechvantoAcademy | Jul 2024 - Aug 2024 |
-| **B.Tech, CSE** | Lovely Professional University | 2022 - Present |
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="75%">
+      <strong>Freelance Machine Learning Engineer</strong><br/>
+      <em>Outlier.AI</em>
+    </td>
+    <td width="25%" align="right">
+      <kbd>Nov 2024 - Jan 2025</kbd>
+    </td>
+  </tr>
+  <tr>
+    <td width="75%">
+      <strong>C++ Intern</strong><br/>
+      <em>TechvantoAcademy</em>
+    </td>
+    <td width="25%" align="right">
+      <kbd>Jul 2024 - Aug 2024</kbd>
+    </td>
+  </tr>
+</table>
 
 ---
 
