@@ -23,7 +23,7 @@
 ### Languages
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,sql,bash,linux&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,postgres,bash,linux&theme=dark" alt="Languages" />
 </div>
 
 ### ML & Computer Vision
@@ -146,15 +146,15 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/vikas-saini1">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=8b949e" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:vikassn44@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=8b949e" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/vikassaini77">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=8b949e" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
