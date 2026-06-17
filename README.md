@@ -60,37 +60,37 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">SafeCity AI</h3>
-      <p align="center">Real-time accident & violence detection CV pipeline (30+ FPS)</p>
+      <h3 align="center"><a href="https://github.com/vikassaini77/SafeCity-AI">🛡️ SafeCity AI</a></h3>
+      <p align="center"><strong>Real-time accident & violence detection CV pipeline (30+ FPS)</strong></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat-square&logo=YOLO&logoColor=black" alt="YOLOv8" />
-        <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black" alt="YOLOv8" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">MedVision AI</h3>
-      <p align="center">Chest X-ray diagnosis with 92-95% accuracy & Grad-CAM XAI</p>
+      <h3 align="center"><a href="https://github.com/vikassaini77/MediVision-AI">🩺 MediVision AI</a></h3>
+      <p align="center"><strong>Chest X-ray diagnosis with 92-95% accuracy & Grad-CAM XAI</strong></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/-ResNet50-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="ResNet50" />
-        <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/ResNet50-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="ResNet50" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Smart-Crop-Monitor</h3>
-      <p align="center">AI IoT pest detection platform with 92% accuracy</p>
+      <h3 align="center"><a href="https://github.com/vikassaini77/Smart-Crop-Monitor">🌱 Smart-Crop-Monitor</a></h3>
+      <p align="center"><strong>AI IoT pest detection platform with 92% accuracy</strong></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat-square&logo=YOLO&logoColor=black" alt="YOLOv8" />
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black" alt="YOLOv8" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Real-Time Event Processing</h3>
-      <p align="center">Microservices backend for high-throughput event streams via Kafka</p>
+      <h3 align="center"><a href="https://github.com/vikassaini77/Multimodal-Predictive-Maintenance-Anomaly-Intelligence-Platform">⚡ Real-Time Event Processing</a></h3>
+      <p align="center"><strong>Microservices backend for high-throughput event streams via Kafka</strong></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
-        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
       </p>
     </td>
   </tr>
@@ -126,15 +126,15 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vikassaini77&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=ffffff&icon_color=58A6FF&title_color=ffffff&hide_border=true&ring_color=58A6FF&v=1" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vikassaini77&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=ffffff&icon_color=58A6FF&title_color=ffffff&hide_border=true&ring_color=58A6FF&v=2" alt="GitHub Stats" height="180" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikassaini77&background=0d1117&stroke=30363d&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&hide_border=true&v=1" alt="Streak Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikassaini77&background=0d1117&stroke=30363d&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&hide_border=true&v=2" alt="Streak Stats" height="180" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vikassaini77&layout=compact&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=ffffff&icon_color=58A6FF&title_color=ffffff&hide_border=true&v=1" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vikassaini77&layout=compact&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=ffffff&icon_color=58A6FF&title_color=ffffff&hide_border=true&v=2" alt="Top Languages" height="180" />
 </div>
 
 
