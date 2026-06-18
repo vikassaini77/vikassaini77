@@ -126,15 +126,15 @@
 ### GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikassaini77&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vikassaini77&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
 
-  <img height="180em" src="https://streak-stats.demolab.com?user=vikassaini77&theme=github-dark-blue&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=vikassaini77&theme=github-dark-blue&hide_border=true" height="180"/>
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassaini77&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassaini77&layout=compact&theme=github_dark&hide_border=true" height="180"/>
 </div>
 
 
