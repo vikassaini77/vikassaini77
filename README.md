@@ -128,7 +128,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vikassaini77&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=600" height="180"/>
 
-  <img src="https://streak-stats.demolab.com?user=vikassaini77&theme=github-dark-blue&hide_border=true&v=14" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=vikassaini77&theme=github-dark-blue&hide_border=true" height="180"/>
 </div>
 
 <br/>
