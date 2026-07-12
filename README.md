@@ -125,12 +125,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vikassaini77&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    height="180"
-    alt="GitHub Stats"
-  />
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=vikassaini77&theme=github-dark&hide_border=true"
     height="180"
