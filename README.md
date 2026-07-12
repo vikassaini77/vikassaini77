@@ -123,19 +123,28 @@
 
 ---
 
-### GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikassaini77&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=600" height="180"/>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vikassaini77&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=vikassaini77&theme=github-dark&hide_border=true"
+    height="180"
+    alt="GitHub Streak"
+  />
+</p>
 
-  <img src="https://streak-stats.demolab.com?user=vikassaini77&theme=github-dark-blue&hide_border=true" height="180"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassaini77&layout=compact&theme=github_dark&hide_border=true&cache_seconds=600" height="180"/>
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassaini77&layout=compact&theme=github_dark&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
 
 
 ---
