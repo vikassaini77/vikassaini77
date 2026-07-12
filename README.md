@@ -142,7 +142,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassaini77&layout=compact&langs_count=8&theme=github_dark&hide_border=true&card_width=420"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vikassaini77&layout=compact&langs_count=8&theme=github_dark&hide_border=true&card_width=420"
     alt="Top Languages"
   />
 </p>
