@@ -128,7 +128,7 @@
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vikassaini77&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=ffffff&icon_color=58A6FF&title_color=ffffff&hide_border=true&ring_color=58A6FF&v=2" alt="GitHub Stats" height="180" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikassaini77&background=0d1117&stroke=30363d&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&hide_border=true&v=2" alt="Streak Stats" height="180" />
+  <img src="https://streak-stats.demolab.com?user=vikassaini77&background=0d1117&stroke=30363d&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&hide_border=true" alt="Streak Stats" height="180" />
 </div>
 
 <br/>
