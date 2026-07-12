@@ -125,11 +125,15 @@
 
 ## 📊 GitHub Stats
 
-<img
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
     src="https://streak-stats.demolab.com?user=vikassaini77&theme=github-dark&hide_border=true"
     height="180"
     alt="GitHub Streak"
-/>
+  />
+</p>
 
 ---
 
