@@ -104,11 +104,6 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/vikassaini77/AI-Steam-Lab">🤖 AI STEM Lab Assistant (NeuroLab)</a></h3>
-      <p align="center">
-        <a href="https://ai-steam-lab.vercel.app">
-          <img src="https://raw.githubusercontent.com/vikassaini77/AI-Steam-Lab/main/docs/assets/dashboard_ui_1780492511926.png" alt="AI STEM Lab Preview" width="100%" />
-        </a>
-      </p>
       <p align="center"><strong>Multi-Agent STEM tutoring platform with 3-hop ReAct loop & pgvector RAG</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -128,11 +123,6 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/vikassaini77/SafeCity-AI">🛡️ SafeCity AI</a></h3>
-      <p align="center">
-        <a href="https://safe-city-ai-alpha.vercel.app">
-          <img src="https://raw.githubusercontent.com/vikassaini77/SafeCity-AI/main/assets/images/dashboard_v2.png" alt="SafeCity AI Preview" width="100%" />
-        </a>
-      </p>
       <p align="center"><strong>Distributed real-time accident & violence CV engine (30+ FPS, 50+ streams)</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=YOLO&logoColor=black" alt="YOLOv8" />
@@ -154,11 +144,6 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/vikassaini77/MediVision-AI">🩺 MediVision AI</a></h3>
-      <p align="center">
-        <a href="https://medivision-swart.vercel.app/">
-          <img src="https://raw.githubusercontent.com/vikassaini77/healthcare-recommendation-system/main/docs/images/xray_analysis.jpg" alt="MediVision AI Preview" width="100%" />
-        </a>
-      </p>
       <p align="center"><strong>Chest X-ray diagnostic classification (92-95% acc) with Grad-CAM XAI</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -178,11 +163,6 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/vikassaini77/Smart-Crop-Monitor">🌱 Smart-Crop-Monitor</a></h3>
-      <p align="center">
-        <a href="https://smart-crop-monitor-five.vercel.app/">
-          <img src="https://raw.githubusercontent.com/vikassaini77/Smart-Crop-Monitor/main/paper_results.png" alt="Smart-Crop-Monitor Preview" width="100%" />
-        </a>
-      </p>
       <p align="center"><strong>Edge AIoT pest & disease detection platform with 92% accuracy & advisory</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=YOLO&logoColor=black" alt="YOLOv8" />
@@ -204,11 +184,6 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/vikassaini77/Multimodal-Predictive-Maintenance-Anomaly-Intelligence-Platform">⚡ Multimodal Predictive Maintenance</a></h3>
-      <p align="center">
-        <a href="https://github.com/vikassaini77/Multimodal-Predictive-Maintenance-Anomaly-Intelligence-Platform">
-          <img src="https://raw.githubusercontent.com/vikassaini77/Multimodal-Predictive-Maintenance-Anomaly-Intelligence-Platform/main/docs/assets/dashboard_mockup.png" alt="Predictive Maintenance Preview" width="100%" />
-        </a>
-      </p>
       <p align="center"><strong>Telemetry anomaly intelligence platform with Graph Networks & ReAct agents</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -224,11 +199,6 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/vikassaini77/FORESIGHT-Demand-Inventory-Intelligence">📈 FORESIGHT Demand Intelligence</a></h3>
-      <p align="center">
-        <a href="https://foresight-demand-inventory-intellig.vercel.app">
-          <img src="https://raw.githubusercontent.com/vikassaini77/FORESIGHT-Demand-Inventory-Intelligence/main/docs/assets/dashboard.jpg" alt="FORESIGHT Preview" width="100%" />
-        </a>
-      </p>
       <p align="center"><strong>Supply chain forecasting engine with real-time risk mitigation & analytics</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
